@@ -1,0 +1,321 @@
+{
+  "results": [
+    {
+      "id": "_7833254_1",
+      "name": "Total Considerado",
+      "description": "OutcomeDefinition.WeightedTotal.description",
+      "score": {
+        "possible": 0.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Calculated"
+      }
+    },
+    {
+      "id": "_7833255_1",
+      "name": "Total",
+      "description": "OutcomeDefinition.Total.description",
+      "externalGrade": true,
+      "score": {
+        "possible": 1400.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Calculated"
+      }
+    },
+    {
+      "id": "_7851005_1",
+      "name": "LISTA01",
+      "created": "2026-03-02T01:23:51.528Z",
+      "contentId": "_14126707_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-03-09T02:00:00.000Z",
+        "attemptsAllowed": 0,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7865097_1",
+      "name": "[Atividade] Matrizes e vetores com NumPy",
+      "created": "2026-03-08T22:08:17.418Z",
+      "contentId": "_14152593_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7886331_1",
+      "name": "[Laboratório] Tupla, Dicionario, Conjunto",
+      "created": "2026-03-23T23:42:43.242Z",
+      "contentId": "_14196407_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-03-30T02:59:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7893388_1",
+      "name": "Atividade Integradora",
+      "created": "2026-03-29T13:48:13.181Z",
+      "contentId": "_14209216_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-03-31T01:30:00.000Z",
+        "attemptsAllowed": 0,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7949259_1",
+      "name": "[Laboratório] Recursão e Complexidade",
+      "created": "2026-04-13T22:08:08.985Z",
+      "contentId": "_14320386_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-04-20T03:00:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7984860_1",
+      "name": "[Laboratorio] Termine a tabela hash",
+      "created": "2026-05-05T00:43:33.393Z",
+      "contentId": "_14385570_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8019702_1",
+      "name": "[Seminário] Entrega",
+      "created": "2026-05-11T22:22:45.422Z",
+      "contentId": "_14438553_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 0,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8019721_1",
+      "name": "Envie aqui sua colinha :)",
+      "created": "2026-05-11T23:50:10.284Z",
+      "contentId": "_14438633_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8028461_1",
+      "name": "Entrega avaliação 2",
+      "created": "2026-05-19T00:21:32.349Z",
+      "contentId": "_14457510_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-05-19T02:59:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8049266_1",
+      "name": "[Laboratórios] Fila",
+      "created": "2026-06-02T00:15:19.409Z",
+      "contentId": "_14494021_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 0,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8055779_1",
+      "name": "[Laboratório] Exercícios da apostila 3",
+      "created": "2026-06-07T21:31:45.400Z",
+      "contentId": "_14504663_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8070081_1",
+      "name": "[Laboratorio] Exercicios da Apostila - Arvores",
+      "created": "2026-06-15T21:27:46.603Z",
+      "contentId": "_14527734_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-06-22T21:27:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8082131_1",
+      "name": "[Atividade Aula] Exercicio de Arvores",
+      "created": "2026-06-22T23:16:06.537Z",
+      "contentId": "_14550317_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-06-23T00:00:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8090724_1",
+      "name": "[Laboratorio] Exercicios da apostila parte 2",
+      "created": "2026-06-30T00:19:56.176Z",
+      "contentId": "_14566462_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-07-06T22:00:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    }
+  ]
+}

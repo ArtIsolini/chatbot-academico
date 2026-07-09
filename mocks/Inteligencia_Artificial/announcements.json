@@ -1,0 +1,56 @@
+[
+  {
+    "id": "_2184384_1",
+    "title": "Responda a CPA!",
+    "body": "<p>Meus queridos, estamos em periodo de CPA.</p><p>Esta é a ferramente oficial para que você possa avaliar os docentes, estrutura e equipe do UniSenac. É através dessa ferramenta que você pode melhorar a instituição onde estuda.</p><p>Participe!</p><p>Acesse: <a href=\"https://senacrs.quest.gvdasa.com.br/pagina-inicial\">https://senacrs.quest.gvdasa.com.br/pagina-inicial</a>&nbsp;<br>🔑 Usuário: CPF ou matrícula<br>🔐 Senha: mesma do Portal do Aluno</p><p>Abraços,</p><p>Prof Vitor.</p>",
+    "draft": false,
+    "availability": {
+      "duration": {
+        "type": "Permanent",
+        "start": "2026-05-27T22:22:48.471Z",
+        "end": null
+      }
+    },
+    "creatorUserId": "_968315_1",
+    "created": "2026-05-27T22:22:48.490Z",
+    "modified": "2026-05-27T22:22:48.490Z",
+    "position": 1,
+    "creator": "_968315_1"
+  },
+  {
+    "id": "_2155563_1",
+    "title": "Sobre atrasos, saídas antecipadas e ausências",
+    "body": "<p data-end=\"156\" data-start=\"143\">Olá, pessoal.</p><p data-end=\"250\" data-start=\"158\">Escrevo para reforçar as orientações sobre frequência, pontualidade e permanência nas aulas.</p><p data-end=\"492\" data-start=\"252\">Nos cursos superiores presenciais, a frequência às aulas é obrigatória, e a legislação educacional estabelece exigência mínima de <strong data-end=\"401\" data-start=\"382\">75% de presença</strong> para aprovação, além do conceito final satisfatório.</p><p data-end=\"492\" data-start=\"252\">Por isso, informo que nossas aulas têm início às <strong data-end=\"550\" data-start=\"543\">19h</strong> e término às <strong data-end=\"571\" data-start=\"564\">22h</strong>. A chamada é realizada no início da aula (com tolerância de 15 minutos), podendo haver nova verificação de presença ao longo do período. Como cada encontro é organizado em <strong data-end=\"730\" data-start=\"713\">três períodos</strong>, a frequência pode ser registrada separadamente em cada um deles, de acordo com a presença efetiva do estudante em sala.</p><p data-end=\"492\" data-start=\"252\">Assim, <strong data-end=\"871\" data-start=\"860\">atrasos</strong>, <strong data-end=\"895\" data-start=\"873\">saídas antecipadas</strong> e <strong data-end=\"911\" data-start=\"898\">ausências</strong> impactam diretamente o registro da frequência. Caso essas ocorrências se repitam e ultrapassem o limite legal de faltas, o estudante poderá ser <strong data-end=\"1083\" data-start=\"1055\">reprovado por frequência</strong>, ainda que obtenha conceito suficiente nas avaliações. <strong>Reforço que a exigência de frequência mínima de 75% é a orientação oficial do MEC para cursos superiores presenciais.&nbsp;</strong></p><p data-end=\"492\" data-start=\"252\">É um dever do estudante acompanhar suas presenças pelo portal do aluno. E é um direito poder justificar suas ausências em casos previstos em lei. Qualquer outra dúvida pode ser sanada diretamente com o coordenador do seu curso.</p><p data-end=\"492\" data-start=\"252\">Conto com vocês para que o bom andamento da unidade curricular :)&nbsp;</p><p data-end=\"492\" data-start=\"252\">Abraços,&nbsp;</p><p data-end=\"492\" data-start=\"252\">Prof. Vitor Hugo.</p><p data-end=\"492\" data-start=\"252\"></p>",
+    "draft": false,
+    "availability": {
+      "duration": {
+        "type": "Permanent",
+        "start": "2026-04-23T01:04:24.707Z",
+        "end": null
+      }
+    },
+    "creatorUserId": "_968315_1",
+    "created": "2026-04-23T01:04:24.718Z",
+    "modified": "2026-04-23T01:04:24.718Z",
+    "position": 2,
+    "creator": "_968315_1"
+  },
+  {
+    "id": "_2149610_1",
+    "title": "Data atividade",
+    "body": "<p>Meus queridos/as,</p><p>fui tomado por um espirito muito bom que decidiu <strong>aumentar o prazo da entrega do exercício de Agentes e Sistema Multiagentes</strong>, considerando que precisam finalizar o Seminário de Computação Bioinspirada. Ficou pro dia 29/04.</p><p>Obviamente isso me faz acreditar que vocês terão grandes trabalhos pra apresentar na próxima semana... estou ansioso! :)&nbsp;</p><p>Até lá!</p><p>Prof Vitor</p>",
+    "draft": false,
+    "availability": {
+      "duration": {
+        "type": "Permanent",
+        "start": "2026-04-16T00:57:05.700Z",
+        "end": null
+      }
+    },
+    "creatorUserId": "_968315_1",
+    "created": "2026-04-16T00:57:05.703Z",
+    "modified": "2026-04-16T00:57:05.703Z",
+    "position": 3,
+    "creator": "_968315_1"
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "results": [
+    {
+      "id": "_7819454_1",
+      "name": "Total Considerado",
+      "description": "OutcomeDefinition.WeightedTotal.description",
+      "score": {
+        "possible": 0.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Calculated"
+      }
+    },
+    {
+      "id": "_7819455_1",
+      "name": "Total",
+      "description": "OutcomeDefinition.Total.description",
+      "externalGrade": true,
+      "score": {
+        "possible": 900.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Calculated"
+      }
+    },
+    {
+      "id": "_7864433_1",
+      "name": "Exercícios",
+      "created": "2026-03-06T20:51:34.316Z",
+      "contentId": "_14150766_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-03-13T20:51:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7873357_1",
+      "name": "Atividade | Análise de Dados",
+      "created": "2026-03-13T23:44:28.838Z",
+      "contentId": "_14168486_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-03-18T03:00:00.000Z",
+        "attemptsAllowed": 0,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7884638_1",
+      "name": "[Atividade] Qualidade dos Dados",
+      "created": "2026-03-21T13:48:31.250Z",
+      "contentId": "_14194024_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-03-27T02:59:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7892706_1",
+      "name": "[Laboratório] Atividade Estatística",
+      "created": "2026-03-27T16:22:50.870Z",
+      "contentId": "_14207551_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-04-04T02:59:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7946856_1",
+      "name": "Termine o Excel",
+      "created": "2026-04-11T18:35:02.869Z",
+      "contentId": "_14312885_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_7967831_1",
+      "name": "[Atividade] Análise no Excel",
+      "created": "2026-04-24T19:00:09.824Z",
+      "contentId": "_14359101_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "due": "2026-05-08T02:59:00.000Z",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8027133_1",
+      "name": "[Atividade Guiada] Python",
+      "created": "2026-05-15T21:21:00.229Z",
+      "contentId": "_14454813_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8045777_1",
+      "name": "[Laboratório] Condicionais",
+      "created": "2026-05-30T00:24:09.443Z",
+      "contentId": "_14490388_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    },
+    {
+      "id": "_8077810_1",
+      "name": "Um novo produto!",
+      "created": "2026-06-19T17:02:32.650Z",
+      "contentId": "_14542528_1",
+      "score": {
+        "possible": 100.0
+      },
+      "availability": {
+        "available": "Yes"
+      },
+      "grading": {
+        "type": "Attempts",
+        "attemptsAllowed": 1,
+        "scoringModel": "Last",
+        "anonymousGrading": {
+          "type": "None"
+        }
+      }
+    }
+  ]
+}

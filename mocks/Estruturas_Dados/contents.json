@@ -1,0 +1,1307 @@
+{
+  "results": [
+    {
+      "id": "_14090546_1",
+      "title": "Boas vindas!",
+      "created": "2015-02-19T12:41:38.000Z",
+      "modified": "2026-02-28T20:23:08.581Z",
+      "position": 2,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": false,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-folder"
+      },
+      "children": [
+        {
+          "id": "_14090553_1",
+          "parentId": "_14090546_1",
+          "title": "Boas vindas!",
+          "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Header --><div style=\"margin-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Olá, pessoal!</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Bem-vindos à unidade curricular de <span style=\"color: #6c8cff; font-weight: 600;\">Estrutura de Dados para Ciência de Dados!</span></p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Apresentação --><p style=\"margin: 0 0 14px 0;\">É um prazer iniciar este semestre com vocês na unidade curricular <strong>Estrutura de Dados para Ciência de Dados</strong>, do Curso Superior de Tecnologia em Inteligência Artificial e Ciência de Dados.</p><p style=\"margin: 0 0 14px 0;\">Aqui serão disponibilizados os materiais para estudo, como textos, videoaulas, exemplos práticos e listas de exercícios. A disciplina está organizada em tópicos semanais, facilitando o acompanhamento e a progressão dos conteúdos.</p><p style=\"margin: 0 0 14px 0;\">Utilizem também o Fórum da disciplina para enviar perguntas, dúvidas, sugestões ou compartilhar notícias e materiais que considerem relevantes. A participação ativa é parte importante do processo de aprendizagem.</p><!-- Contatos --><div style=\"background-color: #fbfbfc; border: 1px solid #ececf1; border-radius: 12px; padding: 16px; margin: 18px 0 18px 0;\"><p style=\"margin: 0 0 10px 0; font-weight: bold; color: #333; font-size: 15px;\">📌 Contatos e conexão</p><p style=\"margin: 10px 0 6px 0; font-size: 14px; color: #444;\"><strong>E-mail</strong></p><p style=\"margin: 0 0 10px 0; font-size: 14px;\"><a style=\"color: #6c8cff; text-decoration: none;\" href=\"mailto:vhlopes@senacrs.com.br\"> vhlopes@senacrs.com.br </a></p><p style=\"margin: 10px 0 6px 0; font-size: 14px; color: #444;\"><strong>LinkedIn</strong></p><p style=\"margin: 0; font-size: 14px;\"><a style=\"color: #6c8cff; text-decoration: none;\" href=\"https://www.linkedin.com/in/vitor-hugo-lopes/\" target=\"_blank\" rel=\"noopener\"> https://www.linkedin.com/in/vitor-hugo-lopes/ </a></p></div><!-- Encerramento --><p style=\"margin: 0 0 10px 0;\">Desejo um excelente semestre a todas e todos! Vamos aprofundar nossos conhecimentos, desenvolvendo soluções consistentes e fortalecendo a base técnica de vocês.</p><p style=\"margin: 18px 0 0 0; color: #555;\">Abraço,<br><strong>Prof. Vitor Hugo Lopes</strong></p><!-- Footer --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+          "created": "2013-08-27T20:27:39.000Z",
+          "modified": "2026-02-28T20:25:23.630Z",
+          "position": 0,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        },
+        {
+          "id": "_14126683_1",
+          "parentId": "_14090546_1",
+          "title": "Sobre",
+          "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Header --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">Sobre o componente curricular</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">O professor, competências e avaliação</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- (Opcional) Resumo --><!-- <div\r\n      style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\">\r\n      <p style=\"margin: 0; font-size: 14px; color: #444;\">\r\n        <strong>Resumo:</strong> aqui tu pode colocar 2–3 linhas dizendo o que o\r\n        estudante vai encontrar nos slides, quais tópicos principais e como usar\r\n        o material.</p>\r\n    </div> --><!-- Embed --><div style=\"position: relative; width: 100%;   padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHCqNshQUI/Q36XVyJ1uQeBwxFvL15xNQ/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div><!-- Actions\r\n<div style=\"display: flex; gap: 10px; align-items: center; justify-content: space-between; flex-wrap: wrap; padding: 14px 16px; background-color: #ffffff;\"><br /><a style=\"background-color: #6c8cff; color: #ffffff; text-decoration: none; font-size: 14px; font-weight: bold; padding: 10px 14px; border-radius: 12px; display: inline-block; box-shadow: 0 2px 6px rgba(108,140,255,0.25);\" href=\"https://moodle.poa.ifrs.edu.br/draftfile.php/767963/user/draft/844515603/Linguagem%20de%20Programac%CC%A7a%CC%83o%20II.pdf\" target=\"_blank\" rel=\"noopener\">&nbsp;⬇️ Baixar em PDF </a></div>--></div><!-- Assinatura (opcional, se quiser manter padrão de post) --><div style=\"margin-top: 22px;\"><div style=\"  border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+          "created": "2026-03-01T23:54:54.790Z",
+          "modified": "2026-03-01T23:54:54.790Z",
+          "position": 1,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        }
+      ]
+    },
+    {
+      "id": "_14126339_1",
+      "title": "Cronograma",
+      "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; padding: 22px; background-color: #ffffff; line-height: 1.65; color: #222;\"><div style=\"margin-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Cronograma</h2><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\"></div></div><div style=\"margin-bottom: 14px;\">O cronograma abaixo pode sofrer ajustes conforme o andamento da turma e necessidades pedagógicas.</div><div style=\"margin-bottom: 12px; font-size: 13px; color: #555;\"><div style=\"display: inline-block; width: 10px; height: 10px; background-color: #ffeef0; border: 1px solid #f5b7b1; border-radius: 3px; vertical-align: middle; margin-right: 8px;\"></div>Avaliações Presenciais e Entregas de Projeto.</div><div style=\"border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border: 1px solid #ececf1;\"><table style=\"width: 100%; border-collapse: collapse; font-size: 14px; height: 1029.38px;\"><thead><tr style=\"background-color: #f4f6fa; height: 52.0938px;\"><th style=\"padding: 14px; width: 6%; text-align: left; height: 52.0938px;\">#</th><th style=\"padding: 14px; width: 18%; text-align: left; height: 52.0938px;\">Data</th><th style=\"padding: 14px; width: auto; text-align: left; height: 52.0938px;\">Conteúdo Previsto</th><th style=\"padding: 14px; width: 20%; text-align: left; height: 52.0938px;\">Metodologia</th></tr></thead><tbody><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">1</td><td style=\"padding: 12px; height: 48.0938px;\">02/03/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Start + Abertura da UC:</strong> Diagnóstico e revisão inicial.</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica + diagnóstico</td></tr><tr style=\"background-color: #f9fbff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">2</td><td style=\"padding: 12px; height: 48.0938px;\">09/03/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Matrizes e Arrays Multidimensionais:</strong> Uso de NumPy básico.</td><td style=\"padding: 12px; height: 48.0938px;\">Prática</td></tr><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">3</td><td style=\"padding: 12px; height: 48.0938px;\">16/03/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Estruturas de Dados:</strong> Tuplas, Dicionários, Mapas e Conjuntos.</td><td style=\"padding: 12px; height: 48.0938px;\">Prática</td></tr><tr style=\"background-color: #f9fbff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">4</td><td style=\"padding: 12px; height: 48.0938px;\">23/03/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Manipulação de Dados:</strong> Series, DataFrames e Index (Pandas).</td><td style=\"padding: 12px; height: 48.0938px;\">Prática</td></tr><tr style=\"background-color: #ffeef0; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\"><strong>5</strong></td><td style=\"padding: 12px; height: 48.0938px;\"><strong>30/03/2026</strong></td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Atividade Integradora 1</strong></td><td style=\"padding: 12px; height: 48.0938px;\">Atividade (avaliativa)</td></tr><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">6</td><td style=\"padding: 12px; height: 48.0938px;\">06/04/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Algoritmos:</strong> Noções de Complexidade e Big-O.</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica</td></tr><tr style=\"background-color: #f9fbff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">7</td><td style=\"padding: 12px; height: 48.0938px;\">13/04/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Lógica Avançada:</strong> Recursão e Stack (aplicações).</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica + prática</td></tr><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">8</td><td style=\"padding: 12px; height: 48.0938px;\">20/04/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Algoritmos de Busca:</strong> Busca linear vs. Busca binária.</td><td style=\"padding: 12px; height: 48.0938px;\">Prática</td></tr><tr style=\"background-color: #f9fbff; height: 55.7969px;\"><td style=\"padding: 12px; height: 55.7969px;\">9</td><td style=\"padding: 12px; height: 55.7969px;\">27/04/2026</td><td style=\"padding: 12px; height: 55.7969px;\">Preparação do seminário de ordenação</td><td style=\"padding: 12px; height: 55.7969px;\">Teórica + prática</td></tr><tr style=\"background-color: #ffffff; height: 55.7969px;\"><td style=\"padding: 12px; height: 55.7969px;\">10</td><td style=\"padding: 12px; height: 55.7969px;\">04/05/2026</td><td style=\"padding: 12px; height: 55.7969px;\"><strong>Indexação:</strong> Tabelas Hash e recuperação de dados.</td><td style=\"padding: 12px; height: 55.7969px;\">Teórica + prática</td></tr><tr style=\"background-color: #f9fbff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">11</td><td style=\"padding: 12px; height: 48.0938px;\">11/05/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><b>Apresentação:&nbsp;</b>Seminários de Ordenação</td><td style=\"padding: 12px; height: 48.0938px;\">Oficina prática</td></tr><tr style=\"background-color: #ffeef0; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\"><strong>12</strong></td><td style=\"padding: 12px; height: 48.0938px;\"><strong>18/05/2026</strong></td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Avaliação:&nbsp;</strong>Complexidade, busca, indexação e ordenação</td><td style=\"padding: 12px; height: 48.0938px;\">Seminário (avaliativo)</td></tr><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">13</td><td style=\"padding: 12px; height: 48.0938px;\">25/05/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Estruturas Lineares:</strong> Pilhas (LIFO).</td><td style=\"padding: 12px; height: 48.0938px;\">Prática</td></tr><tr style=\"background-color: #f9fbff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">14</td><td style=\"padding: 12px; height: 48.0938px;\">01/06/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Estruturas Lineares:</strong> Filas (FIFO).</td><td style=\"padding: 12px; height: 48.0938px;\">Prática</td></tr><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">15</td><td style=\"padding: 12px; height: 48.0938px;\">08/06/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Árvores:</strong> Conceitos</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica + prática</td></tr><tr style=\"background-color: #f9fbff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">16</td><td style=\"padding: 12px; height: 48.0938px;\">15/06/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Árvores:</strong>&nbsp;Interpretação e casos de uso.</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica + atividade</td></tr><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">17</td><td style=\"padding: 12px; height: 48.0938px;\">22/06/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><strong>Árvores:</strong> Remoção</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica + prática</td></tr><tr style=\"background-color: #f9fbff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">18</td><td style=\"padding: 12px; height: 48.0938px;\">29/06/2026</td><td style=\"padding: 12px; height: 48.0938px;\"><b>Árvores: </b>Prática</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica + prática</td></tr><tr style=\"background-color: #ffffff; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\">19</td><td style=\"padding: 12px; height: 48.0938px;\">06/07/2026</td><td style=\"padding: 12px; height: 48.0938px;\">Avaliação Final (Pilha, Fila e Árvores)</td><td style=\"padding: 12px; height: 48.0938px;\">Teórica + prática</td></tr><tr style=\"background-color: #ffeef0; height: 48.0938px;\"><td style=\"padding: 12px; height: 48.0938px;\"><strong>20</strong></td><td style=\"padding: 12px; height: 48.0938px;\"><strong>13/07/2026</strong></td><td style=\"padding: 12px; height: 48.0938px;\"><b>Recuperação</b></td><td style=\"padding: 12px; height: 48.0938px;\">Téorica + prática</td></tr></tbody></table></div><div style=\"margin-top: 18px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\"></div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\"></div><div style=\"flex: 1; background-color: #6c8cff;\"></div><div style=\"flex: 1; background-color: #88e1a5;\"></div><div style=\"flex: 1; background-color: #feca57;\">]]</div></div></div></div>",
+      "created": "2026-03-01T00:03:25.459Z",
+      "modified": "2026-06-30T00:23:30.936Z",
+      "position": 3,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": true,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-blankpage"
+      },
+      "children": []
+    },
+    {
+      "id": "_14090548_1",
+      "title": "Aulas",
+      "created": "2015-02-19T12:43:46.000Z",
+      "modified": "2026-03-01T00:05:52.852Z",
+      "position": 6,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": false,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-folder"
+      },
+      "children": [
+        {
+          "id": "_14126340_1",
+          "parentId": "_14090548_1",
+          "title": "[02/03] Aula 1",
+          "created": "2026-03-01T00:06:10.211Z",
+          "modified": "2026-03-01T00:06:10.211Z",
+          "position": 0,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14126710_1",
+              "parentId": "_14126340_1",
+              "title": "Slides",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Cabeçalho --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">Revisão de Listas em Python</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Revisão de sintaxe, ambiente e fundamentos de listas.</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card do Slide --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- Resumo do Conteúdo --><div style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\"><p style=\"margin: 0; font-size: 14px; color: #444;\"><strong>Conteúdo:</strong> Listas, métodos e funções</p></div><!-- Embed do Canva --><div style=\"position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHCwAkxTFo/DttsNqKFxBsQ637mzZtumQ/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div></div><!-- Rodapé Institucional (4 cores) --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+              "created": "2026-03-02T01:27:01.279Z",
+              "modified": "2026-03-02T01:27:28.263Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14126707_1",
+              "parentId": "_14126340_1",
+              "title": "LISTA01",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Header da Lista --><div style=\"margin-bottom: 24px; border-bottom: 1px solid #eee; padding-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Lista para prática 01</h2><p style=\"margin: 6px 0 0 0; font-size: 15px; color: #666;\">Manipulação de Listas em Python</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\"></div></div><!-- Orientações --><div style=\"background-color: #f8f9fa; border-left: 4px solid #6c8cff; padding: 16px; margin-bottom: 24px; border-radius: 4px;\"><p style=\"margin: 0 0 8px 0; font-weight: bold; color: #2b2b2b;\">Orientações:</p><ul style=\"margin: 0; padding-left: 20px; font-size: 14px; color: #444;\"><li style=\"margin-bottom: 4px;\">Desenvolva as soluções utilizando o ambiente que preferir.</li><li style=\"margin-bottom: 4px;\">Evite o uso de inteligência artificial. O objetivo é fortalecer a sua lógica fundamental.</li><li>Organize o seu código criando um ficheiro <code>.py</code> para cada exercício ou um único ficheiro devidamente comentado.</li></ul></div><!-- Exercícios --><p style=\"margin: 20px 0 5px 0;\"><strong>1. Cadastro de Convidados</strong></p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Crie um programa que peça ao utilizador o nome de 3 convidados através do <code>input()</code>. Armazene-os numa lista e depois: <br><span style=\"font-size: 13px; color: #777;\"><em>Ações: Adicione um 4º convidado chamado \"Penetra\", imprima o tamanho da lista (len) e remova o segundo convidado.</em></span></p><p style=\"margin: 20px 0 5px 0;\"><strong>2. </strong><strong>Manipulação Numérica</strong></p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Crie uma lista com os números de 10 a 100 (incrementando de 10 em 10). Utilize fatiamento para criar uma nova lista apenas com os valores de 30 a 60 e, em seguida, inverta a ordem da lista original usando <code>reverse()</code>. <br><span style=\"font-size: 13px; color: #777;\"><em>Exemplo: Após inverter, imprima os dois últimos elementos usando índices negativos.</em></span></p><p style=\"margin: 20px 0 5px 0;\"><strong>3. Fila de Banco</strong></p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Simule uma fila de espera. Adicione \"Ana\", \"Carlos\" e \"Beto\" à lista. Remova a primeira pessoa da fila utilizando <code>pop()</code> no índice correto e exiba quem está a ser atendido. <br><span style=\"font-size: 13px; color: #777;\"><em>Dica: Verifique em que posição o cliente \"Beto\" ficou após o atendimento da primeira pessoa.</em></span></p><p style=\"margin: 20px 0 5px 0;\"><strong>5. O Desafio do Inversor&nbsp;</strong></p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Peça ao utilizador para digitar uma frase qualquer, palavra por palavra, e armazene as palavras numa lista. Utilize o truque do fatiamento com passo negativo para exibir a frase invertida. Desafio: pesquise sobre o método split em python e tente usar.<br><span style=\"font-size: 13px; color: #777;\"><em>Exemplo: Entrada \"Python é legal\" -&gt; Saída \"legal é Python\".</em></span></p><p style=\"margin: 20px 0 5px 0;\"><strong>6. Integrador: Sistema de Notas</strong></p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Receba 4 notas de um aluno, ordene-as da maior para a menor, remova a menor nota da lista e calcule a média aritmética das notas restantes. <br><span style=\"font-size: 13px; color: #777;\"><em>Fórmulas: Use sum() para somar e len() para contar os elementos no cálculo da média.</em></span></p><!-- Seção de Entrega --><div style=\"margin-top: 40px; padding-top: 25px; border-top: 1px solid #eee;\"><p style=\"margin: 0 0 14px 0; color: #444; font-weight: bold;\">Data de entrega e orientações:</p><div style=\"background-color: #fcfcfc; border: 1px solid #f0f0f0; border-radius: 8px; padding: 20px; margin-bottom: 20px;\"><p style=\"margin: 0 0 15px 0; font-size: 15px; color: #444;\">A resolução desta lista deve ser enviada através da blackboard.</p><p style=\"margin: 0; font-size: 15px; color: #222;\"><strong>Prazo de entrega:</strong> 08.03.2026 | 23h</p></div><!-- Footer Institucional --><div style=\"margin-top: 22px;\"><div style=\"  border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\"></div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\"></div><div style=\"flex: 1; background-color: #6c8cff;\"></div><div style=\"flex: 1; background-color: #88e1a5;\"></div><div style=\"flex: 1; background-color: #feca57;\"></div></div></div></div></div>",
+              "created": "2026-03-02T01:23:51.521Z",
+              "modified": "2026-03-02T01:27:10.652Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_7851005_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14152592_1",
+          "parentId": "_14090548_1",
+          "title": "[09/03] Aula 2",
+          "created": "2026-03-08T22:07:04.968Z",
+          "modified": "2026-03-08T22:07:04.968Z",
+          "position": 1,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14152594_1",
+              "parentId": "_14152592_1",
+              "title": "Material",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Cabeçalho --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">NumPy</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Vamos estudar com mais foco a biblioteca NumPy.</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card do Slide --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- Resumo do Conteúdo --><div style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\"><p style=\"margin: 0; font-size: 14px; color: #444;\"><strong>Conteúdo:</strong> Matrizes, arrays e suas funções</p></div><!-- Embed do Canva --><div style=\"position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHDZJsHDfk/TN5i19_Kn5phVw40IVGDdg/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div></div><!-- Rodapé Institucional (4 cores) --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+              "created": "2026-03-08T22:10:09.677Z",
+              "modified": "2026-03-08T22:10:25.550Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14152593_1",
+              "parentId": "_14152592_1",
+              "title": "[Atividade] Matrizes e vetores com NumPy",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; padding: 22px; line-height: 1.65; color: #222; border: 1px solid #eee;\"><div style=\"margin-bottom: 24px; border-bottom: 1px solid #eee; padding-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Lista de Exercícios</h2><p style=\"margin: 6px 0 0 0; font-size: 15px; color: #666;\">Manipulação de Dados com a Biblioteca <strong>NumPy</strong></p><div style=\"height: 3px; width: 56px; background-color: #88e1a5; border-radius: 99px; margin-top: 12px;\"></div></div><div style=\"background-color: #f8f9fa; border-left: 4px solid #88e1a5; padding: 16px; margin-bottom: 24px; border-radius: 4px;\"><p style=\"margin: 0 0 8px 0; font-weight: bold; color: #2b2b2b;\">Importante:</p><ul style=\"margin: 0; padding-left: 20px; font-size: 14px; color: #444;\"><li style=\"margin-bottom: 4px;\">Certifique-se de ter o NumPy instalado (<code>pip install numpy</code>).</li><li style=\"margin-bottom: 4px;\">Inicie seus scripts com <code>import numpy as np</code>.</li></ul></div><p style=\"margin: 20px 0 5px 0;\"><strong>1. Criando arrays básicos</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie, com NumPy:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) um array com os valores 5, 10, 15, 20</li><li>b) uma matriz 2x3 com valores definidos por você</li><li>c) uma matriz 3x4 preenchida com zeros</li><li>d) uma matriz 2x5 preenchida com uns</li></ul><p style=\"margin: -10px 0 20px 0; font-size: 14px; color: #666;\"><em>Mostre todas as estruturas na tela.</em></p><p style=\"margin: 20px 0 5px 0;\"><strong>2. Investigando um array</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie a matriz abaixo:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">[[2, 4, 6],<br>&nbsp;[8, 10, 12]]</div><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Mostre: o número de dimensões, o formato da matriz, a quantidade total de elementos e o tipo dos dados armazenados.</p><p style=\"margin: 20px 0 5px 0;\"><strong>3. Sequência e reorganização</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Use <code>np.arange()</code> para criar um array com os números de 1 até 12. Depois:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) reorganize em uma matriz 3x4</li><li>b) reorganize em uma matriz 4x3</li><li>c) explique por que não seria possível reorganizar esse mesmo array em uma matriz 5x3</li></ul><p style=\"margin: 20px 0 5px 0;\"><strong>4. Acessando elementos e fatias</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Considere a matriz:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">[[1, 2, 3],<br>&nbsp;[4, 5, 6],<br>&nbsp;[7, 8, 9]]</div><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Mostre: o primeiro elemento, o elemento central, o último elemento, a segunda linha inteira, a terceira coluna inteira e a submatriz formada pelas 2 primeiras linhas e 2 últimas colunas.</p><p style=\"margin: 20px 0 5px 0;\"><strong>5. Alterando valores</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie uma matriz 3x3 com números de 1 até 9. Depois:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) troque o valor central por 99</li><li>b) troque todos os valores da primeira linha por 0</li><li>c) mostre a matriz final</li></ul><p style=\"margin: 20px 0 5px 0;\"><strong>6. Operações com arrays</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie os arrays:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">a = [1, 2, 3, 4]<br>b = [10, 20, 30, 40]</div><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Transforme-os em arrays NumPy e mostre: a soma entre eles, a subtração, a multiplicação elemento a elemento e o resultado de multiplicar o array \"a\" por 2.</p><p style=\"margin: 20px 0 5px 0;\"><strong>7. Funções numéricas básicas</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie o array:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">[12, 18, 25, 30, 7]</div><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Calcule e mostre: a soma dos valores, a média, o maior valor e o menor valor.</p><p style=\"margin: 20px 0 5px 0;\"><strong>8. Médias em matriz com axis</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Considere a matriz de notas:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">[[7.0, 8.0, 6.5],<br>&nbsp;[9.0, 7.5, 8.0],<br>&nbsp;[5.5, 6.0, 7.0]]</div><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Calcule: a média geral da matriz, a média de cada aluno e a média de cada prova.</p><p style=\"margin: 20px 0 5px 0;\"><strong>9. Construindo matriz com input</strong></p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Peça ao usuário 6 números e armazene todos em um array NumPy. Depois, reorganize esse array em uma matriz 2x3 e mostre na tela.</p><p style=\"margin: 20px 0 5px 0;\"><strong>10. Desafio — Lugares no ônibus</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Um ônibus foi representado por uma matriz, em que <strong>0</strong> representa lugar vazio e <strong>1</strong> representa lugar ocupado. Considere a matriz:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">[[1, 0, 1, 1],<br>&nbsp;[0, 0, 1, 0],<br>&nbsp;[1, 1, 1, 0]]</div><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Faça um programa que:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) mostre quantos lugares estão vazios no total</li><li>b) mostre quantos lugares vazios existem em cada linha</li><li>c) mostre quantos lugares ocupados existem no ônibus</li><li>d) informe se o ônibus está lotado ou não (Regra: lotado apenas se não houver nenhum 0)</li><li>e) peça ao usuário uma linha e uma coluna e verifique se o assento escolhido está vazio ou ocupado</li></ul><div style=\"margin-top: 40px; padding-top: 25px; border-top: 1px solid #eee;\"><p style=\"margin: 0 0 14px 0; color: #444; font-weight: bold;\">Data de entrega e orientações:</p><div style=\"background-color: #fcfcfc; border: 1px solid #f0f0f0; border-radius: 8px; padding: 20px; margin-bottom: 20px;\"><p style=\"margin: 0 0 15px 0; font-size: 15px; color: #444;\">A entrega deve ser feita enviando os arquivos .py.</p><p style=\"margin: 0; font-size: 15px; color: #222;\"><strong>Prazo final:</strong> 20.03.2026 | 23h</p></div><div style=\"margin-top: 22px;\"><div style=\"  border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\"></div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\"></div><div style=\"flex: 1; background-color: #6c8cff;\"></div><div style=\"flex: 1; background-color: #88e1a5;\"></div><div style=\"flex: 1; background-color: #feca57;\"></div></div></div></div></div>",
+              "created": "2026-03-08T22:08:17.409Z",
+              "modified": "2026-03-08T22:10:25.550Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_7865097_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14196257_1",
+          "parentId": "_14090548_1",
+          "title": "[23/04] Aula 4",
+          "created": "2026-03-23T21:23:20.245Z",
+          "modified": "2026-03-23T21:23:20.245Z",
+          "position": 2,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14196259_1",
+              "parentId": "_14196257_1",
+              "title": "Material",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Cabeçalho --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">Tuplas, Dicionários e Conjuntos</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Outras formas de organizar dados</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card do Slide --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- Resumo do Conteúdo --><div style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\"><p style=\"margin: 0; font-size: 14px; color: #444;\"><strong>Conteúdo:</strong> Tuplas, Set, Dicionarios e exercícios</p></div><!-- Embed do Canva --><div style=\"position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHEy9S-YBw/RYBQ6JvIsnhvRKKo3Ry3ag/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div></div><!-- Rodapé Institucional (4 cores) --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+              "created": "2026-03-23T21:25:37.730Z",
+              "modified": "2026-03-23T21:25:37.730Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14196407_1",
+              "parentId": "_14196257_1",
+              "title": "[Laboratório] Tupla, Dicionario, Conjunto",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; padding: 22px; line-height: 1.65; color: #222; border: 1px solid #eee;\"><div style=\"margin-bottom: 24px; border-bottom: 1px solid #eee; padding-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Atividade Prática</h2><p style=\"margin: 6px 0 0 0; font-size: 15px; color: #666;\">Estruturas de Dados em Python: <strong>Tuplas, Dicionários e Conjuntos</strong></p><div style=\"height: 3px; width: 56px; background-color: #88e1a5; border-radius: 99px; margin-top: 12px;\"></div></div><div style=\"background-color: #f8f9fa; border-left: 4px solid #88e1a5; padding: 16px; margin-bottom: 24px; border-radius: 4px;\"><p style=\"margin: 0 0 8px 0; font-weight: bold; color: #2b2b2b;\">Introdução:</p><p style=\"margin: 0; font-size: 14px; color: #444;\">Nesta atividade, você irá aplicar os conceitos estudados sobre tuplas, dicionários e conjuntos em situações que envolvem organização, consulta, validação e análise de dados. Além do uso dessas estruturas, será necessário mobilizar conhecimentos anteriores de lógica de programação, como entrada e saída de dados, estruturas condicionais, laços de repetição e manipulação de variáveis. Leia cada situação com atenção e procure pensar não apenas em como fazer o programa funcionar, mas também em por que determinada estrutura é mais adequada para cada caso.</p></div><p style=\"margin: 20px 0 5px 0;\"><strong>1. Cadastro fixo de filme com desempacotamento</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Uma plataforma de streaming deseja registrar informações básicas de um filme de forma que esses dados não possam ser alterados ao longo da execução do programa. Para isso, desenvolva um programa que crie uma <strong>tupla</strong> contendo as seguintes informações sobre um filme: título, ano de lançamento, duração em minutos e gênero.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Depois de criar a tupla, faça o <strong>desempacotamento</strong> desses valores de duas formas diferentes:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) Primeiro, realize um desempacotamento tradicional, armazenando cada valor em uma variável própria.</li><li>b) Depois, realize um novo desempacotamento em que o título fique em uma variável separada e todas as demais informações sejam agrupadas em outra variável utilizando o operador <code>*</code>.</li></ul><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Na sequência, exiba os dados do filme em frases organizadas, de modo que fique claro o que cada informação representa.</p><p style=\"margin: 0 0 15px 0; font-size: 15px;\">Ao final, escreva um comentário no código explicando por que o uso de uma tupla faz sentido nessa situação, considerando as características dessa estrutura e a natureza fixa dessas informações em um cadastro.</p><p style=\"margin: 20px 0 5px 0;\"><strong>2. Análise de registro de usuário ignorando parte dos dados</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Considere que um sistema armazenou os dados de um usuário na seguinte tupla:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">usuario = (\"Ana\", 25, \"Brasil\", \"Premium\")</div><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie um programa que faça o desempacotamento dessa tupla, mas ignorando uma das informações com o uso de <code>_</code>. Nesse caso, desconsidere o país e armazene apenas o nome, a idade e o tipo de conta nas variáveis que julgar mais adequadas.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Depois disso, exiba uma mensagem apresentando o usuário, mostrando pelo menos seu nome e o tipo de conta.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Na sequência, percorra a tupla com um laço de repetição e mostre todos os seus valores individualmente na tela.</p><p style=\"margin: 0 0 15px 0; font-size: 15px;\">Por fim, explique com um comentário ou com uma mensagem no próprio programa qual é a diferença entre acessar elementos por índice e utilizar desempacotamento, e em que tipo de situação cada estratégia pode ser mais útil.</p><p style=\"margin: 20px 0 5px 0;\"><strong>3. Perfil de lead</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Uma empresa da área de marketing digital deseja armazenar informações sobre um possível cliente interessado em seus serviços. Para isso, crie um programa que monte um <strong>dicionário</strong> com pelo menos os seguintes dados de um lead: nome, idade e origem do contato.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Depois de criar esse dicionário, o programa deve:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) Exibir o dicionário completo.</li><li>b) Alterar a origem do lead para um novo valor definido por você.</li><li>c) Adicionar um novo campo chamado <strong>interesse</strong>, indicando qual produto, curso ou serviço chamou a atenção desse lead.</li><li>d) Percorrer o dicionário utilizando <code>.items()</code>, exibindo cada chave e seu respectivo valor.</li></ul><p style=\"margin: 0 0 15px 0; font-size: 15px;\">Ao final, apresente uma frase-resumo com base nas informações armazenadas, como se o sistema estivesse gerando uma pequena síntese do perfil do lead.</p><p style=\"margin: 20px 0 5px 0;\"><strong>4. Consulta de estoque com interação do usuário</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Considere o seguinte dicionário, que representa o estoque inicial de alguns produtos de uma loja de informática:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">estoque = {\"teclado\": 12, \"mouse\": 7, \"monitor\": 4}</div><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie um programa que peça ao usuário o nome de um produto e verifique se ele existe no dicionário. Caso exista, o programa deve informar a quantidade disponível em estoque.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Caso o produto não exista, o programa deve exibir a mensagem <strong>\"Produto não encontrado\"</strong> e, em seguida, perguntar ao usuário se ele deseja adicionar esse novo produto ao estoque.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Se a resposta for positiva, solicite ao usuário a quantidade inicial do produto e faça a inserção desse novo item no dicionário. Ao final, exiba o estoque atualizado.</p><p style=\"margin: 0 0 15px 0; font-size: 15px;\">Nesse exercício, procure organizar bem o fluxo de interação com o usuário, utilizando entrada de dados, condicionais e manipulação de dicionários.</p><p style=\"margin: 20px 0 5px 0;\"><strong>5. Controle de presença sem repetição</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Durante uma oficina, a lista de presença foi preenchida várias vezes pelos participantes, o que gerou nomes repetidos. A lista registrada foi a seguinte:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">presencas = [\"Ana\", \"Bruno\", \"Carlos\", \"Ana\", \"Daniel\", \"Bruno\", \"Ana\"]</div><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Desenvolva um programa que transforme essa lista em um <strong>set</strong>, eliminando automaticamente os nomes duplicados.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Depois disso, o programa deve:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) Mostrar quantas pessoas realmente participaram da oficina.</li><li>b) Percorrer o conjunto e exibir os nomes dos participantes.</li><li>c) Escrever uma breve explicação, em forma de comentário no código ou mensagem final, sobre por que o uso de sets foi adequado para esse problema.</li></ul><p style=\"margin: 20px 0 5px 0;\"><strong>6. Monitoramento de acessos por período do dia</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Uma plataforma educacional deseja analisar quais usuários acessaram o sistema ao longo de um determinado dia. Para isso, a equipe de tecnologia decidiu separar os acessos em dois períodos: manhã e tarde. No entanto, como uma mesma pessoa pode acessar o sistema várias vezes no mesmo turno, é necessário tratar duplicidades antes de fazer a análise.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie um programa que monte <strong>duas listas</strong> com nomes de usuários: uma para os acessos da manhã e outra para os acessos da tarde. Essas listas devem ser construídas com dados informados pelo usuário. Para isso, utilize laços de repetição e permita que a pessoa digite vários nomes para cada período. Você pode definir uma palavra de parada, como <strong>\"fim\"</strong>, para encerrar o cadastro de cada turno.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Depois de preencher as duas listas, o programa deve convertê-las em <strong>sets</strong> para remover nomes repetidos dentro de cada período.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Na sequência, faça uma análise dos dados e mostre:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) Quais usuários acessaram o sistema nos dois períodos do dia.</li><li>b) Quais usuários acessaram apenas pela manhã.</li><li>c) Quais usuários acessaram apenas pela tarde.</li><li>d) Quantos usuários únicos acessaram a plataforma ao longo do dia inteiro.</li></ul><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Ao final, apresente uma pequena conclusão no próprio programa ou em comentário no código, explicando por que o uso de conjuntos foi mais adequado do que o uso de listas para esse tipo de análise.</p><p style=\"margin: 0 0 15px 0; font-size: 15px;\">Neste exercício, procure organizar bem o fluxo de entrada e saída, de modo que o programa seja fácil de testar e compreender.</p><p style=\"margin: 20px 0 5px 0;\"><strong>7. Sistema de votação com menu</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Desenvolva um programa para registrar votos em uma enquete sobre qual tema os alunos gostariam de estudar na próxima aula. As opções disponíveis são: <strong>Python</strong>, <strong>IA</strong>, <strong>Banco de Dados</strong> e <strong>Web</strong>.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">O programa deve utilizar um laço de repetição com <code>while</code> para permitir vários votos sucessivos. A cada voto válido, um <strong>dicionário</strong> deve ser atualizado com a quantidade de votos de cada tema.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">O sistema só deve encerrar quando o usuário digitar <strong>\"fim\"</strong>. Caso o usuário informe uma opção que não existe, o programa deve exibir uma mensagem de erro e não contabilizar esse voto.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Ao final da votação, percorra o dicionário e mostre quantos votos cada tema recebeu. Depois, informe qual foi o tema mais votado pela turma.</p><p style=\"margin: 0 0 15px 0; font-size: 15px;\">Procure construir uma interação clara, organizada e fácil de usar, como se esse sistema pudesse ser utilizado de fato em sala de aula.</p><p style=\"margin: 20px 0 5px 0;\"><strong>8. Organização de inscrições em minicursos</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Uma instituição está oferecendo três minicursos durante uma semana acadêmica: <strong>Python</strong>, <strong>Inteligência Artificial</strong> e <strong>Visualização de Dados</strong>. Os dados das inscrições vieram com alguns problemas: há estudantes repetidos, estudantes inscritos em mais de um curso e nomes que precisam ser analisados de forma mais organizada. Para isso, utilize as seguintes listas:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">python = [\"Ana\", \"Bruno\", \"Carlos\", \"Ana\", \"Daniel\", \"Eduarda\"]<br>ia = [\"Bruno\", \"Fernanda\", \"Carlos\", \"Gabriel\", \"Bruno\", \"Helena\"]<br>visualizacao = [\"Ana\", \"Carlos\", \"Igor\", \"Julia\", \"Helena\", \"Igor\"]</div><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Crie um programa que transforme cada uma dessas listas em <strong>sets</strong>, removendo duplicatas. Em seguida, o programa deve identificar:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>a) Quais estudantes estão inscritos em todos os três minicursos.</li><li>b) Quais estudantes estão inscritos em pelo menos dois minicursos.</li><li>c) Quais estudantes estão inscritos em apenas um minicurso.</li><li>d) A lista completa de todos os estudantes inscritos em pelo menos um dos cursos.</li></ul><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Depois disso, crie um <strong>dicionário</strong> chamado <code>relatorio</code>, em que cada chave seja o nome de um estudante e cada valor seja uma <strong>tupla</strong> contendo duas informações: a quantidade de minicursos em que esse estudante está inscrito e uma classificação textual correspondente.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Utilize as seguintes regras para a classificação:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>3 cursos: <strong>\"inscrição máxima\"</strong></li><li>2 cursos: <strong>\"inscrição múltipla\"</strong></li><li>1 curso: <strong>\"inscrição única\"</strong></li></ul><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Na sequência, percorra o dicionário e exiba um relatório organizado na tela, com frases como:</p><div style=\"background-color: #2d2d2d; color: #f8f8f2; padding: 12px; border-radius: 6px; font-family: monospace; margin-bottom: 10px;\">Ana está inscrita em 2 minicursos e seu status é inscrição múltipla.</div><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Por fim, o programa deve entrar em um laço com <code>while</code>, perguntando ao usuário o nome de um estudante para consulta. Se o nome existir no dicionário, o sistema deve mostrar suas informações. Caso não exista, deve informar que o estudante não foi encontrado. O programa só deve encerrar quando o usuário digitar <strong>\"sair\"</strong>.</p><p style=\"margin: 0 0 15px 0; font-size: 15px;\">Neste exercício, procure organizar bem a solução, pois será necessário integrar diferentes estruturas de dados e diferentes recursos da linguagem em um mesmo programa.</p><div style=\"margin-top: 40px; padding-top: 25px; border-top: 1px solid #eee;\"><p style=\"margin: 0 0 14px 0; color: #444; font-weight: bold;\">Orientações gerais:</p><div style=\"background-color: #fcfcfc; border: 1px solid #f0f0f0; border-radius: 8px; padding: 20px; margin-bottom: 20px;\"><p style=\"margin: 0 0 10px 0; font-size: 15px; color: #444;\">Organize bem a leitura do problema antes de começar a programar. Em alguns exercícios, será mais importante escolher corretamente a estrutura de dados do que apenas escrever o código.</p><p style=\"margin: 0 0 10px 0; font-size: 15px; color: #444;\">Sempre que fizer sentido, teste seu programa com diferentes valores de entrada para verificar se a lógica está funcionando como esperado.</p><p style=\"margin: 0; font-size: 15px; color: #444;\">Ao desenvolver cada solução, procure manter o código legível, com nomes de variáveis claros e saídas bem organizadas para facilitar a interpretação dos resultados.</p></div><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\"></div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\"></div><div style=\"flex: 1; background-color: #6c8cff;\"></div><div style=\"flex: 1; background-color: #88e1a5;\"></div><div style=\"flex: 1; background-color: #feca57;\"></div></div></div></div></div>",
+              "created": "2026-03-23T23:42:43.232Z",
+              "modified": "2026-03-23T23:42:43.260Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_7886331_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14209215_1",
+          "parentId": "_14090548_1",
+          "title": "[30/03] Atividade Integradora",
+          "created": "2026-03-29T13:40:13.905Z",
+          "modified": "2026-03-29T13:40:13.905Z",
+          "position": 3,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14209216_1",
+              "parentId": "_14209215_1",
+              "title": "Atividade Integradora",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; padding: 22px; line-height: 1.65; color: #222; border: 1px solid #eee; max-width: 1000px;\"><div style=\"margin-bottom: 24px; border-bottom: 1px solid #eee; padding-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Atividade Integradora: Algoritmos e Estruturas de Dados</h2><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\"></div></div><p style=\"margin: 0 0 8px 0; font-size: 17px; font-weight: bold; color: #2b2b2b;\">Contexto da atividade</p><div style=\"background-color: #f8f9fa; border-left: 4px solid #6c8cff; padding: 16px; margin-bottom: 24px; border-radius: 4px;\"><p style=\"margin: 0; font-size: 14px; color: #444;\">Ao longo das últimas aulas, trabalhamos diferentes formas de organizar, armazenar e analisar informações em Python. Vimos estruturas como tuplas, dicionários, conjuntos e também tivemos o primeiro contato com arrays multidimensionais utilizando NumPy.</p><p style=\"margin: 10px 0 0 0; font-size: 14px; color: #444;\">Nesta atividade, vocês irão integrar esses conhecimentos em uma situação mais completa, próxima de um problema real. A proposta não é apenas aplicar comandos isolados, mas pensar em como estruturar os dados, como percorrê-los e como utilizá-los para gerar análises úteis.</p><p style=\"margin: 10px 0 0 0; font-size: 14px; color: #444;\">Imaginem que vocês foram chamados para desenvolver uma pequena solução para apoiar a organização de um evento universitário com oficinas temáticas. A coordenação do evento possui dados sobre estudantes, oficinas, inscrições, presenças, salas e capacidades dos espaços. O objetivo é transformar esses dados em informações que ajudem na tomada de decisão.</p></div><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Objetivo</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Desenvolver, em Python, um programa capaz de organizar e analisar os dados de participação em um evento universitário, utilizando de forma integrada:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li>tuplas</li><li>dicionários</li><li>conjuntos</li><li>arrays/matrizes com NumPy</li><li>raciocínio algorítmico para percorrer, cruzar e interpretar dados</li></ul><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Modalidade de realização</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li>A atividade deverá ser realizada em dupla.</li><li>A atividade deverá ser realizada em aula.</li><li>A entrega deverá ser feita conforme orientação do professor ao final do período.</li></ul><div style=\"background-color: #fff8fc; border-left: 4px solid #ff9ff3; padding: 16px; margin: 24px 0; border-radius: 4px;\"><p style=\"margin: 0 0 8px 0; font-weight: bold; color: #2b2b2b;\">Regra importante sobre uso de Inteligência Artificial</p><p style=\"margin: 0; font-size: 14px; color: #444;\">Esta atividade deve ser resolvida com base no conhecimento construído por vocês ao longo das aulas, nos materiais da disciplina e no raciocínio da dupla.</p><p style=\"margin: 10px 0 0 0; font-size: 14px; color: #444;\">Não é permitido o uso de ferramentas de Inteligência Artificial para realizar, responder, gerar código, sugerir soluções ou corrigir a atividade.</p><p style=\"margin: 10px 0 0 0; font-size: 14px; color: #444;\">O uso de Inteligência Artificial, total ou parcial, implicará em nota zero na atividade.</p></div><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Situação-problema</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">O UniHub irá promover uma manhã de oficinas para estudantes ingressantes. Cada estudante pode se inscrever em uma ou mais oficinas, e a coordenação precisa analisar como ficaram as inscrições, a presença dos participantes e a ocupação das salas utilizadas.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Para isso, foi disponibilizado um conjunto inicial de dados. A partir dele, a dupla deverá construir um programa que organize as informações e responda a diferentes questões relevantes para a equipe de organização do evento.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Mais do que exibir resultados, o programa deve demonstrar que a dupla compreendeu como diferentes estruturas de dados podem ser utilizadas de maneira adequada em cada situação.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Dados fornecidos</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Utilizem os dados abaixo como base da atividade.</p><div style=\"margin: 14px 0 18px 0; border-radius: 10px; overflow: hidden; border: 1px solid #313244; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.12);\"><div style=\"padding: 10px 14px; background-color: #45475a; border-bottom: 1px solid #1e1e2e;\"></div><pre style=\"margin: 0; padding: 16px 18px 18px 18px; background-color: #11111b; color: #f8f8f2; font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 13px; line-height: 1.6; white-space: pre; overflow-x: auto;\"><span style=\"color: #ff79c6;\">import</span> <span style=\"color: #8be9fd;\">numpy</span> <span style=\"color: #ff79c6;\">as</span> <span style=\"color: #8be9fd;\">np</span>\r\n\r\n<span style=\"color: #f8f8f2;\">estudantes</span> <span style=\"color: #ff79c6;\">=</span> <span style=\"color: #f8f8f2;\">[</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E01\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Ana\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E02\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Bruno\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E03\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Carla\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E04\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Diego\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E05\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Eduarda\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E06\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Felipe\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E07\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Giovana\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"E08\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Henrique\"</span><span style=\"color: #f8f8f2;\">)</span>\r\n<span style=\"color: #f8f8f2;\">]</span>\r\n\r\n<span style=\"color: #f8f8f2;\">oficinas</span> <span style=\"color: #ff79c6;\">=</span> <span style=\"color: #f8f8f2;\">{</span>\r\n    <span style=\"color: #f1fa8c;\">\"O101\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"nome\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Python para Dados\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"sala\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Lab 1\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"turno\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #ffb86c;\">0</span><span style=\"color: #f8f8f2;\">},</span>\r\n    <span style=\"color: #f1fa8c;\">\"O102\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"nome\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Design com IA\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"sala\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Lab 2\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"turno\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #ffb86c;\">0</span><span style=\"color: #f8f8f2;\">},</span>\r\n    <span style=\"color: #f1fa8c;\">\"O103\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"nome\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Robótica Criativa\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"sala\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Maker\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"turno\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #ffb86c;\">1</span><span style=\"color: #f8f8f2;\">},</span>\r\n    <span style=\"color: #f1fa8c;\">\"O104\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"nome\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Visualização de Dados\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"sala\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f1fa8c;\">\"Lab 1\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"turno\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #ffb86c;\">1</span><span style=\"color: #f8f8f2;\">}</span>\r\n<span style=\"color: #f8f8f2;\">}</span>\r\n\r\n<span style=\"color: #f8f8f2;\">inscricoes</span> <span style=\"color: #ff79c6;\">=</span> <span style=\"color: #f8f8f2;\">{</span>\r\n    <span style=\"color: #f1fa8c;\">\"E01\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O101\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"O104\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f1fa8c;\">\"E02\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O101\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"O103\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f1fa8c;\">\"E03\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O102\"</span><span style=\"color: #f8f8f2;\">,),</span>\r\n    <span style=\"color: #f1fa8c;\">\"E04\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O101\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"O102\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"O103\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f1fa8c;\">\"E05\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O104\"</span><span style=\"color: #f8f8f2;\">,),</span>\r\n    <span style=\"color: #f1fa8c;\">\"E06\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O103\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"O104\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f1fa8c;\">\"E07\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O102\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"O103\"</span><span style=\"color: #f8f8f2;\">),</span>\r\n    <span style=\"color: #f1fa8c;\">\"E08\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"O101\"</span><span style=\"color: #f8f8f2;\">,)</span>\r\n<span style=\"color: #f8f8f2;\">}</span>\r\n\r\n<span style=\"color: #f8f8f2;\">presencas</span> <span style=\"color: #ff79c6;\">=</span> <span style=\"color: #f8f8f2;\">{</span>\r\n    <span style=\"color: #f1fa8c;\">\"O101\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"E01\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E02\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E04\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E08\"</span><span style=\"color: #f8f8f2;\">},</span>\r\n    <span style=\"color: #f1fa8c;\">\"O102\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"E03\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E04\"</span><span style=\"color: #f8f8f2;\">},</span>\r\n    <span style=\"color: #f1fa8c;\">\"O103\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"E02\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E04\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E06\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E07\"</span><span style=\"color: #f8f8f2;\">},</span>\r\n    <span style=\"color: #f1fa8c;\">\"O104\"</span><span style=\"color: #f8f8f2;\">:</span> <span style=\"color: #f8f8f2;\">{</span><span style=\"color: #f1fa8c;\">\"E01\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"E05\"</span><span style=\"color: #f8f8f2;\">}</span>\r\n<span style=\"color: #f8f8f2;\">}</span>\r\n\r\n<span style=\"color: #f8f8f2;\">salas</span> <span style=\"color: #ff79c6;\">=</span> <span style=\"color: #f8f8f2;\">(</span><span style=\"color: #f1fa8c;\">\"Lab 1\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Lab 2\"</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #f1fa8c;\">\"Maker\"</span><span style=\"color: #f8f8f2;\">)</span>\r\n\r\n<span style=\"color: #f8f8f2;\">capacidade</span> <span style=\"color: #ff79c6;\">=</span> <span style=\"color: #8be9fd;\">np</span><span style=\"color: #f8f8f2;\">.</span><span style=\"color: #50fa7b;\">array</span><span style=\"color: #f8f8f2;\">([</span>\r\n    <span style=\"color: #f8f8f2;\">[</span><span style=\"color: #ffb86c;\">30</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #ffb86c;\">25</span><span style=\"color: #f8f8f2;\">],</span>\r\n    <span style=\"color: #f8f8f2;\">[</span><span style=\"color: #ffb86c;\">20</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #ffb86c;\">20</span><span style=\"color: #f8f8f2;\">],</span>\r\n    <span style=\"color: #f8f8f2;\">[</span><span style=\"color: #ffb86c;\">15</span><span style=\"color: #f8f8f2;\">,</span> <span style=\"color: #ffb86c;\">18</span><span style=\"color: #f8f8f2;\">]</span>\r\n<span style=\"color: #f8f8f2;\">])</span></pre></div><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">O que o programa deve fazer</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">A atividade está organizada em etapas. Leiam todas com atenção antes de começar a programar. Em vários momentos, será necessário decidir qual estrutura faz mais sentido para resolver o problema.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Etapa 1: Organização inicial dos dados</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Nesta primeira parte, o objetivo é transformar e organizar os dados de forma que o restante da análise fique mais fácil.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">O programa deverá:</p><ol style=\"margin: 0 0 16px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li style=\"margin-bottom: 8px;\">Criar uma estrutura que associe o código do estudante ao nome.</li><li style=\"margin-bottom: 8px;\">Exibir de forma organizada em quais oficinas cada estudante está inscrito.</li><li style=\"margin-bottom: 8px;\">Calcular quantos estudantes estão inscritos em cada oficina.</li></ol><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Nesta etapa, pensem com cuidado sobre como percorrer listas de tuplas e como montar novos dicionários a partir das informações já existentes.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Etapa 2: Análise utilizando conjuntos</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Agora, vocês deverão utilizar operações com conjuntos para extrair novas informações.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">O programa deverá identificar:</p><ol start=\"4\" style=\"margin: 0 0 16px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li style=\"margin-bottom: 8px;\">Quais estudantes participaram de mais de uma oficina.</li><li style=\"margin-bottom: 8px;\">Quais estudantes se inscreveram em oficinas, mas não aparecem em nenhuma lista de presença.</li><li style=\"margin-bottom: 8px;\">Quais estudantes participaram de oficinas dos dois turnos.</li><li style=\"margin-bottom: 8px;\">Quais oficinas possuem pelo menos um estudante em comum.</li></ol><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Nesta etapa, não basta apenas exibir resultados: é importante demonstrar que a dupla compreendeu como conjuntos podem ajudar em comparações, interseções e agrupamentos.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Etapa 3: Ocupação das salas com NumPy</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">A coordenação também quer analisar o uso dos espaços físicos do evento.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Considerem que:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li>o valor 0 no campo turno representa o primeiro horário;</li><li>o valor 1 representa o segundo horário;</li><li>a matriz capacidade informa quantas pessoas cada sala suporta em cada turno;</li><li>as linhas da matriz correspondem às salas na mesma ordem da tupla salas.</li></ul><p style=\"margin: 0 0 10px 0; font-size: 15px;\">A dupla deverá:</p><ol start=\"8\" style=\"margin: 0 0 16px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li style=\"margin-bottom: 8px;\">Criar uma nova matriz NumPy chamada ocupacao, com a mesma dimensão da matriz capacidade.</li><li style=\"margin-bottom: 8px;\">Preencher essa matriz com a quantidade de estudantes presentes em cada sala e turno.</li><li style=\"margin-bottom: 8px;\">Exibir a matriz de ocupação resultante.</li><li style=\"margin-bottom: 8px;\">Calcular a quantidade de vagas ociosas por sala e por turno.</li><li style=\"margin-bottom: 8px;\">Informar qual sala apresentou a maior taxa de ocupação.</li><li style=\"margin-bottom: 8px;\">Verificar se houve algum caso de lotação excedida.</li></ol><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Aqui será necessário cruzar as informações do dicionário de oficinas com a matriz de capacidades. Portanto, atenção à lógica utilizada para relacionar nome da sala, posição da sala na matriz e turno correspondente.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Etapa 4: Relatório geral do evento</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Depois de organizar os dados e realizar os cruzamentos, o programa deverá gerar um relatório final com informações relevantes para a coordenação.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Esse relatório deve apresentar:</p><ol start=\"14\" style=\"margin: 0 0 16px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li style=\"margin-bottom: 8px;\">O total de inscritos por oficina.</li><li style=\"margin-bottom: 8px;\">O total de presentes por oficina.</li><li style=\"margin-bottom: 8px;\">A taxa de presença de cada oficina.</li><li style=\"margin-bottom: 8px;\">O nome do(s) estudante(s) que participaram de mais oficinas.</li><li style=\"margin-bottom: 8px;\">O nome da oficina com maior número de presentes.</li><li style=\"margin-bottom: 8px;\">O nome da oficina com menor taxa de presença.</li></ol><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Procurem deixar a saída organizada e compreensível. Um relatório claro demonstra cuidado com a interpretação e apresentação dos resultados.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Etapa 5: Verificação de conflito de horários</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">A coordenação percebeu que existe uma regra importante: um estudante não pode estar inscrito em duas oficinas que acontecem no mesmo turno.</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Com base nisso, o programa deverá:</p><ol start=\"20\" style=\"margin: 0 0 16px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li style=\"margin-bottom: 8px;\">Verificar se existem inscrições inválidas.</li><li style=\"margin-bottom: 8px;\">Identificar quais estudantes possuem conflito de horário.</li><li style=\"margin-bottom: 8px;\">Mostrar quais oficinas estão em conflito para cada estudante encontrado.</li><li style=\"margin-bottom: 8px;\">Exibir uma mensagem explicativa, como no exemplo abaixo:</li></ol><div style=\"margin: 14px 0 18px 0; border-radius: 10px; overflow: hidden; border: 1px solid #313244; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.12);\"><div style=\"padding: 10px 14px; background-color: #45475a; border-bottom: 1px solid #1e1e2e;\"></div><pre style=\"margin: 0; padding: 16px 18px 18px 18px; background-color: #11111b; color: #a6e3a1; font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 13px; line-height: 1.6; white-space: pre; overflow-x: auto;\"><span style=\"color: #a6e3a1;\">O estudante </span><span style=\"color: #f1fa8c;\">Diego</span><span style=\"color: #a6e3a1;\"> possui conflito entre as oficinas </span><span style=\"color: #f1fa8c;\">Python para Dados</span><span style=\"color: #a6e3a1;\"> e </span><span style=\"color: #f1fa8c;\">Design com IA</span><span style=\"color: #a6e3a1;\">.</span></pre></div><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Nesta etapa, o foco está em cruzar corretamente os dados das inscrições com os metadados das oficinas.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">Requisitos da solução</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Para que a atividade seja considerada completa, a solução deve atender aos seguintes critérios:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li>utilizar corretamente as estruturas de dados trabalhadas em aula;</li><li>apresentar lógica coerente e organizada;</li><li>produzir saídas compreensíveis;</li><li>respeitar os dados fornecidos;</li></ul><p style=\"margin: 0 0 10px 0; font-size: 15px;\">A dupla pode criar variáveis auxiliares, estruturas intermediárias e trechos extras de organização, desde que o programa mantenha clareza e coerência.</p><p style=\"margin: 16px 0 8px 0; font-size: 16px; font-weight: bold; color: #2b2b2b;\">O que será observado na correção</p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Na correção, serão considerados aspectos como:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444; padding-left: 22px;\"><li>compreensão do problema proposto;</li><li>uso adequado de tuplas, dicionários, conjuntos e arrays NumPy;</li><li>capacidade de percorrer e cruzar dados corretamente;</li><li>organização do código;</li><li>clareza na exibição dos resultados;</li><li>coerência algorítmica na resolução.</li></ul><div style=\"margin-top: 40px; padding-top: 25px; border-top: 1px solid #eee;\"><p style=\"margin: 0 0 14px 0; color: #444; font-weight: bold;\">Orientações finais</p><div style=\"background-color: #fcfcfc; border: 1px solid #f0f0f0; border-radius: 8px; padding: 20px; margin-bottom: 20px;\"><p style=\"margin: 0 0 10px 0; font-size: 15px; color: #444;\">Antes de começar a programar, conversem em dupla e planejem a estratégia de resolução. Em uma atividade como esta, sair codando sem pensar costuma gerar retrabalho.</p><p style=\"margin: 0 0 10px 0; font-size: 15px; color: #444;\">Leiam o enunciado inteiro, identifiquem quais informações já estão disponíveis e quais precisam ser construídas ao longo do programa. Em vários momentos, a escolha da estrutura de dados correta tornará a solução mais simples.</p><p style=\"margin: 0 0 10px 0; font-size: 15px; color: #444;\">Organizem o código em partes, testem etapa por etapa e validem os resultados conforme forem avançando.</p><p style=\"margin: 0 0 10px 0; font-size: 15px; color: #444;\"><strong>Sobre a entrega: </strong>um da dupla envia a atividade completa, com o nome de ambos os colegas. O outro, deverá realizar uma entrega textual dizendo \"<em>atividade entregue por Fulano de Tal</em>\".</p><p style=\"margin: 0; font-size: 15px; color: #444;\">Boa atividade.</p></div><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\"></div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\"></div><div style=\"flex: 1; background-color: #6c8cff;\"></div><div style=\"flex: 1; background-color: #88e1a5;\"></div><div style=\"flex: 1; background-color: #feca57;\"></div></div></div></div></div>",
+              "created": "2026-03-29T13:48:13.161Z",
+              "modified": "2026-03-29T13:50:03.078Z",
+              "position": 0,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {
+                  "start": "2026-03-30T22:00:00.000Z"
+                }
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_7893388_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14255244_1",
+          "parentId": "_14090548_1",
+          "title": "[05/04] Complexidade de Algoritmos",
+          "created": "2026-04-06T00:26:05.963Z",
+          "modified": "2026-04-06T00:26:05.963Z",
+          "position": 4,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14255245_1",
+              "parentId": "_14255244_1",
+              "title": "Apresentação",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Cabeçalho --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">Complexidade de Algoritmos</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Como definir se um algoritmo é eficiente?</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card do Slide --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- Resumo do Conteúdo --><div style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\"><p style=\"margin: 0; font-size: 14px; color: #444;\"><strong>Conteúdo:</strong> Big O, Notações e Complexidades</p></div><!-- Embed do Canva --><div style=\"position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHGBJCsf-0/dN6LHVK8SNUlS1Ivgxf-3A/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div></div><!-- Rodapé Institucional (4 cores) --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+              "created": "2026-04-06T00:27:36.318Z",
+              "modified": "2026-04-06T00:27:36.318Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14320342_1",
+          "parentId": "_14090548_1",
+          "title": "[13/04] Pilha de Execução e Recursividade",
+          "created": "2026-04-13T21:39:48.389Z",
+          "modified": "2026-04-13T21:39:48.389Z",
+          "position": 5,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14320346_1",
+              "parentId": "_14320342_1",
+              "title": "Material",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Cabeçalho --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">Pilha de Execução e Recursividade</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Uma função que chama ela mesmo?</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card do Slide --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- Resumo do Conteúdo --><div style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\"><p style=\"margin: 0; font-size: 14px; color: #444;\"><strong>Conteúdo:</strong> FIFO, Stacks, Base e Passo</p></div><!-- Embed do Canva --><div style=\"position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHGwmTmaqU/_TsZBSya_4L0d4lcGg4iYg/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div></div><!-- Rodapé Institucional (4 cores) --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+              "created": "2026-04-13T21:42:14.885Z",
+              "modified": "2026-04-13T22:05:25.907Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14320386_1",
+              "parentId": "_14320342_1",
+              "title": "[Laboratório] Recursão e Complexidade",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; padding: 22px; line-height: 1.65; color: #222; border: 1px solid #eee;\"><div style=\"margin-bottom: 24px; border-bottom: 1px solid #eee; padding-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Lista de exercícios</h2><p style=\"margin: 6px 0 0 0; font-size: 15px; color: #666;\">Complexidade, <strong>recursão</strong> e análise de código</p><div style=\"height: 3px; width: 56px; background-color: #88e1a5; border-radius: 99px; margin-top: 12px;\"></div></div><p style=\"margin: 20px 0 5px 0;\"><strong>Questão 1</strong></p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 10px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #ff7b72;\">def</span> <span style=\"color: #d2a8ff;\">primeiro</span>(<span style=\"color: #ffa657;\">lista</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #ffa657;\">lista</span>[<span style=\"color: #79c0ff;\">0</span>]</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Responda:</p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Qual é a complexidade?</p><p style=\"margin: 20px 0 5px 0;\"><strong>Questão 2</strong></p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 10px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #ff7b72;\">def</span> <span style=\"color: #d2a8ff;\">soma_total</span>(<span style=\"color: #ffa657;\">lista</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ffa657;\">soma</span> <span style=\"color: #ff7b72;\">=</span> <span style=\"color: #79c0ff;\">0</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ffa657;\">i</span> <span style=\"color: #ff7b72;\">=</span> <span style=\"color: #79c0ff;\">0</span><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">while</span> <span style=\"color: #ffa657;\">i</span> <span style=\"color: #ff7b72;\">&lt;</span> <span style=\"color: #79c0ff;\">len</span>(<span style=\"color: #ffa657;\">lista</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ffa657;\">soma</span> <span style=\"color: #ff7b72;\">+=</span> <span style=\"color: #ffa657;\">lista</span>[<span style=\"color: #ffa657;\">i</span>]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ffa657;\">i</span> <span style=\"color: #ff7b72;\">+=</span> <span style=\"color: #79c0ff;\">1</span><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #ffa657;\">soma</span></div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Responda:</p><p style=\"margin: 0 0 20px 0; font-size: 15px;\">Qual é a complexidade?</p><p style=\"margin: 20px 0 5px 0;\"><strong>Questão 3</strong></p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 10px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #ff7b72;\">def</span> <span style=\"color: #d2a8ff;\">ordena_e_mostra</span>(<span style=\"color: #ffa657;\">lista</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ffa657;\">nova</span> <span style=\"color: #ff7b72;\">=</span> <span style=\"color: #79c0ff;\">sorted</span>(<span style=\"color: #ffa657;\">lista</span>)<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #ffa657;\">nova</span>[<span style=\"color: #79c0ff;\">0</span>]</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Responda:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>Qual é a complexidade da função <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">sorted()</code>?</li><li>Qual é a complexidade total da função <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">ordena_e_mostra</code>?</li></ul><p style=\"margin: 20px 0 5px 0;\"><strong>Contagem regressiva</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Escreva uma função recursiva chamada <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">contagem_regressiva(n)</code> que exiba os números de <strong>n</strong> até <strong>0</strong>.</p><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Exemplo:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 8px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #d2a8ff;\">contagem_regressiva</span>(<span style=\"color: #79c0ff;\">4</span>)</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Saída esperada:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 20px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #79c0ff;\">4<br>3<br>2<br>1<br>0</div><p style=\"margin: 20px 0 5px 0;\"><strong>Soma de 1 até n</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Escreva uma função recursiva chamada <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">soma_ate_n(n)</code> que retorne a soma de todos os números de <strong>1</strong> até <strong>n</strong>.</p><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Exemplo:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 8px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #79c0ff;\">print</span>(<span style=\"color: #d2a8ff;\">soma_ate_n</span>(<span style=\"color: #79c0ff;\">5</span>))</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Saída esperada:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 20px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #79c0ff;\">15</div><p style=\"margin: 20px 0 5px 0;\"><strong>Soma dos elementos de uma lista</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Escreva uma função recursiva chamada <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">soma_lista(lista, n)</code> que some os <strong>n</strong> primeiros elementos de uma lista.</p><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Exemplo:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 8px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #79c0ff;\">print</span>(<span style=\"color: #d2a8ff;\">soma_lista</span>([<span style=\"color: #79c0ff;\">3</span>, <span style=\"color: #79c0ff;\">5</span>, <span style=\"color: #79c0ff;\">2</span>, <span style=\"color: #79c0ff;\">4</span>], <span style=\"color: #79c0ff;\">4</span>))</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Saída esperada:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 20px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #79c0ff;\">14</div><p style=\"margin: 20px 0 5px 0;\"><strong>Inverter string</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Escreva uma função recursiva chamada <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">inverte_texto(texto)</code> que retorne a string invertida.</p><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Exemplo:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 8px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #79c0ff;\">print</span>(<span style=\"color: #d2a8ff;\">inverte_texto</span>(<span style=\"color: #a5d6ff;\">\"python\"</span>))</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Saída esperada:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 20px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #a5d6ff;\">nohtyp</div><p style=\"margin: 20px 0 5px 0;\"><strong>Verificar palíndromo</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Escreva uma função recursiva chamada <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">eh_palindromo(texto)</code> que retorne <strong>True</strong> se a palavra for um palíndromo e <strong>False</strong> caso contrário.</p><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Exemplo:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 8px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #79c0ff;\">print</span>(<span style=\"color: #d2a8ff;\">eh_palindromo</span>(<span style=\"color: #a5d6ff;\">\"arara\"</span>))<br><span style=\"color: #79c0ff;\">print</span>(<span style=\"color: #d2a8ff;\">eh_palindromo</span>(<span style=\"color: #a5d6ff;\">\"python\"</span>))</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Saída esperada:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 20px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #79c0ff;\">True</span><br><span style=\"color: #79c0ff;\">False</span></div><p style=\"margin: 20px 0 5px 0;\"><strong>Pilha da soma</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Analise a função abaixo e escreva a pilha de execução para a chamada <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">soma_ate_n(4)</code>.</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 20px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #ff7b72;\">def</span> <span style=\"color: #d2a8ff;\">soma_ate_n</span>(<span style=\"color: #ffa657;\">n</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">if</span> <span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">==</span> <span style=\"color: #79c0ff;\">1</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #79c0ff;\">1</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">else</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">+</span> <span style=\"color: #d2a8ff;\">soma_ate_n</span>(<span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">-</span> <span style=\"color: #79c0ff;\">1</span>)</div><p style=\"margin: 20px 0 5px 0;\"><strong>Encontrando o erro lógico</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">O código abaixo tenta calcular o fatorial, mas está incorreto. Explique o erro.</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 10px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #ff7b72;\">def</span> <span style=\"color: #d2a8ff;\">fatorial</span>(<span style=\"color: #ffa657;\">n</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">if</span> <span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">==</span> <span style=\"color: #79c0ff;\">0</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #79c0ff;\">0</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">else</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">*</span> <span style=\"color: #d2a8ff;\">fatorial</span>(<span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">-</span> <span style=\"color: #79c0ff;\">1</span>)</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Explique:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>por que ele está errado;</li><li>qual deveria ser o caso base correto.</li></ul><p style=\"margin: 20px 0 5px 0;\"><strong>Comparando funções</strong></p><p style=\"margin: 0 0 10px 0; font-size: 15px;\">Observe as duas funções:</p><div style=\"background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 12px 14px; margin-bottom: 10px; font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; line-height: 1.55; color: #c9d1d9;\"><span style=\"color: #ff7b72;\">def</span> <span style=\"color: #d2a8ff;\">funcao_a</span>(<span style=\"color: #ffa657;\">n</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">if</span> <span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">==</span> <span style=\"color: #79c0ff;\">0</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #79c0ff;\">0</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">else</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #79c0ff;\">1</span> <span style=\"color: #ff7b72;\">+</span> <span style=\"color: #d2a8ff;\">funcao_a</span>(<span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">-</span> <span style=\"color: #79c0ff;\">1</span>)<br><br><span style=\"color: #ff7b72;\">def</span> <span style=\"color: #d2a8ff;\">funcao_b</span>(<span style=\"color: #ffa657;\">n</span>):<br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">if</span> <span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">==</span> <span style=\"color: #79c0ff;\">0</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #79c0ff;\">1</span><br>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">else</span>:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: #ff7b72;\">return</span> <span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">*</span> <span style=\"color: #d2a8ff;\">funcao_b</span>(<span style=\"color: #ffa657;\">n</span> <span style=\"color: #ff7b72;\">-</span> <span style=\"color: #79c0ff;\">1</span>)</div><p style=\"margin: 0 0 6px 0; font-size: 15px; font-weight: bold;\">Responda:</p><ul style=\"margin: 0 0 20px 0; font-size: 15px; color: #444;\"><li>o que a <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">funcao_a</code> calcula?</li><li>o que a <code style=\"font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 0.9em; font-weight: 600; color: #0550ae;\">funcao_b</code> calcula?</li><li>qual a diferença entre os casos base das duas?</li></ul><div style=\"margin-top: 40px; padding-top: 25px; border-top: 1px solid #eee;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\"></div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\"></div><div style=\"flex: 1; background-color: #6c8cff;\"></div><div style=\"flex: 1; background-color: #88e1a5;\"></div><div style=\"flex: 1; background-color: #feca57;\"></div></div></div></div>",
+              "created": "2026-04-13T22:08:08.977Z",
+              "modified": "2026-04-13T22:08:09.001Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_7949259_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            },
+            {
+              "id": "_14339239_1",
+              "parentId": "_14320342_1",
+              "title": "Gabarito_Questões",
+              "created": "2026-04-20T23:07:17.408Z",
+              "modified": "2026-04-20T23:07:17.408Z",
+              "position": 2,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-file",
+                "file": {
+                  "fileName": "exercicios lista.py",
+                  "mimeType": "application/octet-stream"
+                },
+                "fileAssociationMode": "Embed"
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14339228_1",
+          "parentId": "_14090548_1",
+          "title": "[20/04] Busca Linear e Busca Binária",
+          "created": "2026-04-20T22:17:46.901Z",
+          "modified": "2026-04-20T22:17:46.901Z",
+          "position": 6,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14339245_1",
+              "parentId": "_14339228_1",
+              "title": "Material",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Cabeçalho --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">Busca linear e busca binária?</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Como funcionam os algoritmos de busca?</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card do Slide --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- Resumo do Conteúdo --><div style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\"><p style=\"margin: 0; font-size: 14px; color: #444;\"><strong>Conteúdo:</strong> Buscar olhando um por um ou dividir para conquistar?</p></div><!-- Embed do Canva --><div style=\"position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHHaRry1Us/_nce_t5j9BYeCYJIjhLMYw/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div></div><!-- Rodapé Institucional (4 cores) --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+              "created": "2026-04-21T00:43:16.471Z",
+              "modified": "2026-04-21T00:43:16.471Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14339246_1",
+              "parentId": "_14339228_1",
+              "title": "[Código] Busca Linear",
+              "created": "2026-04-21T00:45:26.338Z",
+              "modified": "2026-04-21T00:45:26.338Z",
+              "position": 1,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-file",
+                "file": {
+                  "fileName": "busca_linear.py",
+                  "mimeType": "application/octet-stream"
+                },
+                "fileAssociationMode": "Embed"
+              }
+            },
+            {
+              "id": "_14339247_1",
+              "parentId": "_14339228_1",
+              "title": "[Código] Busca Binária",
+              "created": "2026-04-21T00:45:50.332Z",
+              "modified": "2026-04-21T00:45:50.332Z",
+              "position": 2,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-file",
+                "file": {
+                  "fileName": "busca_binaria.py",
+                  "mimeType": "application/octet-stream"
+                },
+                "fileAssociationMode": "Embed"
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14362174_1",
+          "parentId": "_14090548_1",
+          "title": "[27/04] Seminário de Ordenação",
+          "created": "2026-04-26T21:05:34.496Z",
+          "modified": "2026-04-27T22:20:16.123Z",
+          "position": 7,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14362175_1",
+              "parentId": "_14362174_1",
+              "title": "[Seminário] Algoritmos de Ordenação",
+              "body": "<div style=\"font-family: Arial, Helvetica, sans-serif; color: #222; line-height: 1.6; max-width: 980px; margin: 0 auto;\"><div style=\"background: #f5f7fb; border-left: 6px solid #6c8cff; padding: 22px 24px; border-radius: 10px; margin-bottom: 20px;\"><h2 style=\"margin: 0 0 8px 0; font-size: 28px; color: #1f2a44;\">Seminário em Grupo: Algoritmos de Ordenação</h2><p style=\"margin: 0; font-size: 16px;\">Nesta atividade, cada grupo será responsável por estudar, implementar e apresentar <strong>um algoritmo de ordenação</strong>, explicando seu funcionamento, sua complexidade e suas principais características.</p><p style=\"margin: 0; font-size: 16px;\"></p><p style=\"margin: 0; font-size: 16px;\"><strong>Apresentação</strong>: 11/05</p></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 10px; padding: 20px 24px; margin-bottom: 18px;\"><h3 style=\"margin-top: 0; color: #2d3a58; font-size: 20px;\">Objetivo da atividade</h3><p style=\"margin-bottom: 12px;\">O objetivo deste seminário é compreender que diferentes algoritmos de ordenação resolvem o mesmo problema de maneiras distintas, com impactos diferentes em eficiência, uso de memória, desempenho prático e aplicabilidade.</p><p style=\"margin: 0;\">Mais do que mostrar o código, o grupo deverá demonstrar que <strong>entendeu a lógica do algoritmo</strong> e que consegue <strong>ensiná-lo para a turma</strong> de forma clara.</p></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 10px; padding: 20px 24px; margin-bottom: 18px;\"><h3 style=\"margin-top: 0; color: #2d3a58; font-size: 20px;\">Organização dos grupos</h3><p style=\"margin-bottom: 10px;\">A turma será dividida em <strong>5 grupos</strong>, preferencialmente da seguinte forma:</p><ul style=\"margin-top: 0; padding-left: 22px;\"><li>4 grupos com 3 integrantes</li><li>1 grupo com 2 integrantes</li></ul><p style=\"margin-bottom: 10px;\">Cada grupo ficará responsável por <strong>um único algoritmo</strong>.</p><div style=\"background: #f8f9fc; border: 1px solid #e6eaf2; border-radius: 8px; padding: 14px 16px;\"><p style=\"margin: 0 0 8px 0;\"><strong>Algoritmos do seminário:</strong></p><ul style=\"margin: 0; padding-left: 22px;\"><li><strong>Bubble Sort - Duda, Priscila e Felipe</strong></li><li><strong>Selection Sort - Humberto e Danton</strong></li><li><strong>Insertion Sort - Thiago, Nathan e Pedro</strong></li><li><strong>Merge Sort - Ana, Giovanna e Cezar</strong></li><li><strong>Quick Sort - Hyziel, Luana e Hugo</strong></li></ul></div></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 10px; padding: 20px 24px; margin-bottom: 18px;\"><h3 style=\"margin-top: 0; color: #2d3a58; font-size: 20px;\">O que a apresentação deve conter obrigatoriamente</h3><p style=\"margin-bottom: 10px;\">Cada grupo deverá abordar, obrigatoriamente, os seguintes pontos:</p><ol style=\"padding-left: 24px; margin-top: 0;\"><li><strong>Nome do algoritmo</strong></li><li><strong>Ideia central de funcionamento</strong><br><span style=\"color: #555;\">Explicar, com as próprias palavras, qual é a lógica do algoritmo.</span></li><li><strong>Funcionamento passo a passo</strong><br><span style=\"color: #555;\">Mostrar como o algoritmo ordena uma lista pequena, por exemplo: <code style=\"background: #f1f3f8; padding: 2px 6px; border-radius: 4px;\">[5, 3, 8, 1, 2]</code>.</span></li><li><strong>Implementação em Python</strong></li><li><strong>Explicação do código</strong><br><span style=\"color: #555;\">O grupo deve apresentar o código e explicar sua estrutura principal.</span></li><li><strong>Complexidade de tempo</strong><br><span style=\"color: #555;\">Indicar melhor caso e pior caso, quando fizer sentido.</span></li><li><strong>Vantagens do algoritmo</strong></li><li><strong>Limitações do algoritmo</strong></li><li><strong>Situações em que ele faz mais sentido</strong></li></ol></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 10px; padding: 20px 24px; margin-bottom: 18px;\"><h3 style=\"margin-top: 0; color: #2d3a58; font-size: 20px;\">Formato esperado da apresentação</h3><p style=\"margin-bottom: 10px;\">A apresentação deve ser organizada de forma didática. Sugestão de estrutura:</p><ul style=\"margin-top: 0; padding-left: 22px;\"><li><strong>Slide 1:</strong> título do algoritmo e nomes dos integrantes</li><li><strong>Slide 2:</strong> ideia geral</li><li><strong>Slide 3:</strong> passo a passo com exemplo</li><li><strong>Slide 4:</strong> implementação em Python</li><li><strong>Slide 5:</strong> explicação do código</li><li><strong>Slide 6:</strong> complexidade</li><li><strong>Slide 7:</strong> vantagens e limitações</li><li><strong>Slide 8:</strong> conclusão</li></ul><p style=\"margin: 0;\">O grupo pode adaptar essa estrutura, desde que todos os itens obrigatórios sejam contemplados.</p></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 10px; padding: 20px 24px; margin-bottom: 18px;\"><h3 style=\"margin-top: 0; color: #2d3a58; font-size: 20px;\">Entregas</h3><p style=\"margin-bottom: 10px;\">Cada grupo deverá entregar:</p><ul style=\"margin-top: 0; padding-left: 22px;\"><li>os <strong>slides</strong> da apresentação;</li><li>o <strong>código em Python</strong> do algoritmo;</li><li>um <strong>resumo curto</strong> com os principais pontos estudados.</li></ul></div><div style=\"background: #fffdf5; border: 1px solid #f1e3a4; border-radius: 10px; padding: 20px 24px; margin-bottom: 18px;\"><h3 style=\"margin-top: 0; color: #7a5a00; font-size: 20px;\">Importante</h3><ul style=\"margin-top: 0; padding-left: 22px;\"><li>Não basta dizer que o algoritmo é “rápido” ou “lento”. É preciso <strong>justificar</strong> com base no funcionamento e na complexidade.</li><li>Não basta apenas mostrar o código pronto. O grupo deve demonstrar que <strong>compreendeu a lógica</strong> do algoritmo.</li><li>É esperado que <strong>todos os integrantes participem</strong> da apresentação.</li><li>O exemplo passo a passo deve ser explicado de forma visual e compreensível para a turma.</li></ul></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 10px; padding: 20px 24px; margin-bottom: 18px;\"><h3 style=\"margin-top: 0; color: #2d3a58; font-size: 20px;\">Critérios de avaliação</h3><ul style=\"margin-top: 0; padding-left: 22px;\"><li><strong>Clareza da explicação</strong></li><li><strong>Correção conceitual</strong></li><li><strong>Qualidade da implementação em Python</strong></li><li><strong>Explicação da complexidade</strong></li><li><strong>Discussão das vantagens e limitações</strong></li><li><strong>Organização da apresentação</strong></li><li><strong>Participação dos integrantes</strong></li></ul></div><div style=\"background: #f5f7fb; border-left: 6px solid #6c8cff; padding: 18px 22px; border-radius: 10px;\"><p style=\"margin: 0; font-size: 15px;\"><strong>Resumo do desafio:</strong> cada grupo deverá <strong>explicar, exemplificar, implementar e analisar</strong> um algoritmo de ordenação, demonstrando domínio do conteúdo e capacidade de ensinar o tema à turma.</p></div></div>",
+              "created": "2026-04-26T21:07:45.914Z",
+              "modified": "2026-04-27T22:50:00.297Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14438553_1",
+              "parentId": "_14362174_1",
+              "title": "[Seminário] Entrega",
+              "body": "<p>Envie aqui todos os materiais pertinentes ao seminário</p>",
+              "created": "2026-05-11T22:22:45.409Z",
+              "modified": "2026-05-11T22:23:44.022Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_8019702_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14385564_1",
+          "parentId": "_14090548_1",
+          "title": "[04/05] Tabela Hash",
+          "created": "2026-05-05T00:36:53.847Z",
+          "modified": "2026-05-05T00:36:53.847Z",
+          "position": 8,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14385567_1",
+              "parentId": "_14385564_1",
+              "title": "Apresentação",
+              "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Cabeçalho --><div style=\"margin-bottom: 14px;\"><h2 style=\"margin: 0; font-size: 22px; font-weight: 800; color: #2b2b2b;\">Tabela Hash</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Como funcionam os dicionários?</p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Card do Slide --><div style=\"border-radius: 14px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.06); border: 1px solid #ececf1; background: #ffffff;\"><!-- Resumo do Conteúdo --><div style=\"padding: 14px 16px; background-color: #fbfbfc; border-bottom: 1px solid #ececf1;\"><p style=\"margin: 0; font-size: 14px; color: #444;\"><strong>Conteúdo:</strong> Tabela Hash, Função Hash, Inserção</p></div><!-- Embed do Canva --><div style=\"position: relative; width: 100%; padding-top: 56.25%; overflow: hidden;\"><iframe style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" src=\"https://www.canva.com/design/DAHIpO6OLas/unsLAfqZBTRS1PCLefhMcw/view?embed\" allow=\"fullscreen\" allowfullscreen loading=\"lazy\">\r\n      </iframe></div></div><!-- Rodapé Institucional (4 cores) --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+              "created": "2026-05-05T00:39:48.021Z",
+              "modified": "2026-05-05T00:39:48.021Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14385568_1",
+              "parentId": "_14385564_1",
+              "title": "Código da tabela hash [orientada a objetos]",
+              "body": "<pre class=\"language-java\" contenteditable=\"false\"><span class=\"token keyword\">class</span> <span class=\"token class-name\">TabelaHash</span><span class=\"token operator\">:</span>\r\n\r\n    def <span class=\"token function\">__init__</span><span class=\"token punctuation\">(</span>self<span class=\"token punctuation\">,</span> tamanho<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n        self<span class=\"token punctuation\">.</span>tamanho <span class=\"token operator\">=</span> tamanho\r\n        self<span class=\"token punctuation\">.</span>tabela <span class=\"token operator\">=</span> <span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span>\r\n\r\n        <span class=\"token keyword\">for</span> i in <span class=\"token function\">range</span><span class=\"token punctuation\">(</span>self<span class=\"token punctuation\">.</span>tamanho<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n            self<span class=\"token punctuation\">.</span>tabela<span class=\"token punctuation\">.</span><span class=\"token function\">append</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span><span class=\"token punctuation\">)</span>\r\n\r\n        \r\n    def <span class=\"token function\">indice</span><span class=\"token punctuation\">(</span>self<span class=\"token punctuation\">,</span> chave<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n        <span class=\"token keyword\">return</span> <span class=\"token function\">len</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">)</span> <span class=\"token operator\">%</span> self<span class=\"token punctuation\">.</span>tamanho\r\n\r\n    def <span class=\"token function\">inserir</span><span class=\"token punctuation\">(</span>self<span class=\"token punctuation\">,</span> chave<span class=\"token punctuation\">,</span> valor<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n        ind <span class=\"token operator\">=</span> self<span class=\"token punctuation\">.</span><span class=\"token function\">indice</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">)</span>\r\n        self<span class=\"token punctuation\">.</span>tabela<span class=\"token punctuation\">[</span>ind<span class=\"token punctuation\">]</span><span class=\"token punctuation\">.</span><span class=\"token function\">append</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">,</span> valor<span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span>\r\n\r\n    def <span class=\"token function\">buscar</span><span class=\"token punctuation\">(</span>self<span class=\"token punctuation\">,</span> chave<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n        ind <span class=\"token operator\">=</span> self<span class=\"token punctuation\">.</span><span class=\"token function\">indice</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">)</span>\r\n\r\n        <span class=\"token keyword\">for</span> item in self<span class=\"token punctuation\">.</span>tabela<span class=\"token punctuation\">[</span>ind<span class=\"token punctuation\">]</span><span class=\"token operator\">:</span>\r\n            <span class=\"token keyword\">if</span> item<span class=\"token punctuation\">[</span><span class=\"token number\">0</span><span class=\"token punctuation\">]</span> <span class=\"token operator\">==</span> chave<span class=\"token operator\">:</span>\r\n                <span class=\"token keyword\">return</span> item<span class=\"token punctuation\">[</span><span class=\"token number\">1</span><span class=\"token punctuation\">]</span>\r\n        \r\n        <span class=\"token keyword\">return</span> <span class=\"token class-name\">None</span>\r\n    \r\n    def <span class=\"token function\">listar</span><span class=\"token punctuation\">(</span>self<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n        <span class=\"token function\">print</span><span class=\"token punctuation\">(</span>self<span class=\"token punctuation\">.</span>tabela<span class=\"token punctuation\">)</span>\r\n   \r\naluno <span class=\"token operator\">=</span> <span class=\"token class-name\">TabelaHash</span><span class=\"token punctuation\">(</span><span class=\"token number\">5</span><span class=\"token punctuation\">)</span>\r\n\r\naluno<span class=\"token punctuation\">.</span><span class=\"token function\">inserir</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"Priscila\"</span><span class=\"token punctuation\">,</span> <span class=\"token string\">\"A\"</span><span class=\"token punctuation\">)</span>\r\n\r\naluno<span class=\"token punctuation\">.</span><span class=\"token function\">inserir</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"Humberto\"</span><span class=\"token punctuation\">,</span> <span class=\"token string\">\"A\"</span><span class=\"token punctuation\">)</span>\r\n\r\n<span class=\"token function\">print</span><span class=\"token punctuation\">(</span>aluno<span class=\"token punctuation\">.</span><span class=\"token function\">buscar</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"Priscila\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span>\r\n\r\naluno<span class=\"token punctuation\">.</span><span class=\"token function\">listar</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span></pre>",
+              "created": "2026-05-05T00:41:15.615Z",
+              "modified": "2026-05-05T00:41:53.568Z",
+              "position": 1,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14385569_1",
+              "parentId": "_14385564_1",
+              "title": "Código da tabela hash [simples]",
+              "body": "<pre class=\"language-java\" contenteditable=\"false\">def <span class=\"token function\">criar_tabela</span><span class=\"token punctuation\">(</span>tamanho<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n    tabela <span class=\"token operator\">=</span> <span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span>\r\n\r\n    <span class=\"token keyword\">for</span> i in <span class=\"token function\">range</span><span class=\"token punctuation\">(</span>tamanho<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n        tabela<span class=\"token punctuation\">.</span><span class=\"token function\">append</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">[</span><span class=\"token punctuation\">]</span><span class=\"token punctuation\">)</span>\r\n    \r\n    <span class=\"token keyword\">return</span> tabela\r\n\r\ndef <span class=\"token function\">indice</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">,</span> tamanho<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n    <span class=\"token keyword\">return</span> <span class=\"token function\">len</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">)</span> <span class=\"token operator\">%</span> tamanho \r\n\r\ndef <span class=\"token function\">inserir</span><span class=\"token punctuation\">(</span>tabela<span class=\"token punctuation\">,</span> chave<span class=\"token punctuation\">,</span> valor<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span> \r\n    ind <span class=\"token operator\">=</span> <span class=\"token function\">indice</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">,</span> <span class=\"token function\">len</span><span class=\"token punctuation\">(</span>tabela<span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span>\r\n    tabela<span class=\"token punctuation\">[</span>ind<span class=\"token punctuation\">]</span><span class=\"token punctuation\">.</span><span class=\"token function\">append</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">,</span> valor<span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span>\r\n\r\ndef <span class=\"token function\">buscar</span><span class=\"token punctuation\">(</span>tabela<span class=\"token punctuation\">,</span> chave<span class=\"token punctuation\">)</span><span class=\"token operator\">:</span>\r\n    ind <span class=\"token operator\">=</span> <span class=\"token function\">indice</span><span class=\"token punctuation\">(</span>chave<span class=\"token punctuation\">,</span> <span class=\"token function\">len</span><span class=\"token punctuation\">(</span>tabela<span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span>\r\n\r\n    <span class=\"token keyword\">for</span> item in tabela<span class=\"token punctuation\">[</span>ind<span class=\"token punctuation\">]</span><span class=\"token operator\">:</span>\r\n        <span class=\"token keyword\">if</span> item<span class=\"token punctuation\">[</span><span class=\"token number\">0</span><span class=\"token punctuation\">]</span> <span class=\"token operator\">==</span> chave<span class=\"token operator\">:</span>\r\n            <span class=\"token keyword\">return</span> item<span class=\"token punctuation\">[</span><span class=\"token number\">1</span><span class=\"token punctuation\">]</span>\r\n        \r\n    <span class=\"token keyword\">return</span> <span class=\"token class-name\">None</span>\r\n\r\n\r\naluno <span class=\"token operator\">=</span> <span class=\"token function\">criar_tabela</span><span class=\"token punctuation\">(</span><span class=\"token number\">5</span><span class=\"token punctuation\">)</span>\r\n\r\n<span class=\"token function\">inserir</span><span class=\"token punctuation\">(</span>aluno<span class=\"token punctuation\">,</span> <span class=\"token string\">\"priscila\"</span><span class=\"token punctuation\">,</span> <span class=\"token string\">\"C\"</span><span class=\"token punctuation\">)</span>\r\n<span class=\"token function\">inserir</span><span class=\"token punctuation\">(</span>aluno<span class=\"token punctuation\">,</span> <span class=\"token string\">\"luana\"</span><span class=\"token punctuation\">,</span> <span class=\"token string\">\"A\"</span><span class=\"token punctuation\">)</span>\r\n<span class=\"token function\">inserir</span><span class=\"token punctuation\">(</span>aluno<span class=\"token punctuation\">,</span> <span class=\"token string\">\"humberto\"</span><span class=\"token punctuation\">,</span> <span class=\"token string\">\"A\"</span><span class=\"token punctuation\">)</span>\r\n\r\n<span class=\"token function\">print</span><span class=\"token punctuation\">(</span>aluno<span class=\"token punctuation\">)</span></pre>",
+              "created": "2026-05-05T00:42:12.792Z",
+              "modified": "2026-05-05T00:42:12.792Z",
+              "position": 2,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14385570_1",
+              "parentId": "_14385564_1",
+              "title": "[Laboratorio] Termine a tabela hash",
+              "body": "<p>1. Desenvolva o método deletar</p><p>2. Desenvolva o método alterar</p><p>3. Adapte o código para o exemplo da base de vendas da aula. A chave usada será o ID. Nossa função hash está adequada?&nbsp;</p>",
+              "created": "2026-05-05T00:43:33.384Z",
+              "modified": "2026-05-05T00:43:33.408Z",
+              "position": 3,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_7984860_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14438632_1",
+          "parentId": "_14090548_1",
+          "title": "[11/05] Pré prova",
+          "created": "2026-05-11T23:49:52.848Z",
+          "modified": "2026-05-11T23:49:52.848Z",
+          "position": 9,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14438633_1",
+              "parentId": "_14438632_1",
+              "title": "Envie aqui sua colinha :)",
+              "created": "2026-05-11T23:50:10.278Z",
+              "modified": "2026-05-11T23:50:10.298Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_8019721_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14457342_1",
+          "parentId": "_14090548_1",
+          "title": "[18/05] Material Prova",
+          "created": "2026-05-18T20:19:38.984Z",
+          "modified": "2026-05-18T20:19:38.984Z",
+          "position": 10,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14457343_1",
+              "parentId": "_14457342_1",
+              "title": "Material para prova",
+              "created": "2026-05-18T20:20:06.055Z",
+              "modified": "2026-05-18T20:20:06.055Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-file",
+                "file": {
+                  "fileName": "materiais_prova.zip",
+                  "mimeType": "application/zip"
+                },
+                "fileAssociationMode": "Embed"
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14457510_1",
+          "parentId": "_14090548_1",
+          "title": "Entrega avaliação 2",
+          "created": "2026-05-19T00:21:32.339Z",
+          "modified": "2026-05-19T00:21:32.363Z",
+          "position": 11,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_8028461_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        },
+        {
+          "id": "_14472143_1",
+          "parentId": "_14090548_1",
+          "title": "[25/05] Pilhas",
+          "created": "2026-05-25T22:12:51.043Z",
+          "modified": "2026-05-25T22:12:51.043Z",
+          "position": 12,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14472145_1",
+              "parentId": "_14472143_1",
+              "title": "Apostila",
+              "body": "<p>A aula de hoje poderá ser acompanhada pela apostila publicada aqui <a href=\"https://satisfying-trust-330.notion.site/Apostila-Pilhas-LIFO-36b90616026881718c19ff559c82ec2c\">https://satisfying-trust-330.notion.site/Apostila-Pilhas-LIFO-36b90616026881718c19ff559c82ec2c</a></p><p><br></p>",
+              "created": "2026-05-25T22:13:43.121Z",
+              "modified": "2026-05-25T22:13:43.121Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14493935_1",
+          "parentId": "_14090548_1",
+          "title": "[01/06] Filas",
+          "created": "2026-06-01T22:20:30.328Z",
+          "modified": "2026-06-01T22:20:30.328Z",
+          "position": 13,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14493936_1",
+              "parentId": "_14493935_1",
+              "title": "Apostila",
+              "body": "<p>Neste link você encontrará a apostila de filas.</p><p><a href=\"https://satisfying-trust-330.notion.site/Apostila-Filas-FIFO-36b9061602688105aa90cac963b1822a\">https://satisfying-trust-330.notion.site/Apostila-Filas-FIFO-36b9061602688105aa90cac963b1822a</a></p>",
+              "created": "2026-06-01T22:21:03.788Z",
+              "modified": "2026-06-01T22:21:03.788Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14494021_1",
+              "parentId": "_14493935_1",
+              "title": "[Laboratórios] Fila",
+              "body": "<div style=\"font-family: Arial, sans-serif; line-height: 1.6; color: #222; max-width: 900px; margin: 0 auto;\"><h2 style=\"border-bottom: 1px solid #ddd; padding-bottom: 8px;\">Questão 1 — Fila de atendimento de chamados</h2><p>Uma central de suporte recebe chamados de alunos com dúvidas sobre atividades. Os chamados devem ser atendidos na ordem em que chegam, ou seja, o primeiro chamado registrado deve ser o primeiro a ser atendido.</p><p>Crie um programa em Python usando <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">deque</code> que permita:</p><ol><li>adicionar um chamado à fila;</li><li>atender o próximo chamado da fila;</li><li>visualizar qual é o próximo chamado sem removê-lo;</li><li>exibir todos os chamados pendentes;</li><li>encerrar o programa.</li></ol><p>Cada chamado pode ser representado apenas pelo nome do aluno ou por uma breve descrição, como:</p><pre style=\"background: #f7f7f7; border: 1px solid #ddd; border-radius: 6px; padding: 12px; overflow-x: auto;\"><code>\"Ana - dúvida no exercício 3\"</code></pre><p>O programa deve usar um menu com <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">while</code> e <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">if/elif/else</code>.</p><p><strong>Exemplo de menu esperado:</strong></p><pre style=\"background: #f7f7f7; border: 1px solid #ddd; border-radius: 6px; padding: 12px; overflow-x: auto;\"><code>1 - Adicionar chamado\r\n2 - Atender próximo chamado\r\n3 - Ver próximo chamado\r\n4 - Exibir fila\r\n5 - Sair</code></pre><p><strong>Requisito importante:</strong></p><p>Use <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">append()</code> para adicionar chamados ao fim da fila e <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">popleft()</code> para atender o chamado que está na frente.</p><hr style=\"border: none; border-top: 1px solid #ddd; margin: 32px 0;\"><h2 style=\"border-bottom: 1px solid #ddd; padding-bottom: 8px;\">Questão 2 — Simulador de fila de atendimento com prioridade simples</h2><p>Uma central de atendimento acadêmico recebe solicitações de estudantes. Cada solicitação possui um nome e um tipo.</p><p>O tipo da solicitação pode ser:</p><pre style=\"background: #f7f7f7; border: 1px solid #ddd; border-radius: 6px; padding: 12px; overflow-x: auto;\"><code>normal\r\nurgente</code></pre><p>Crie um programa em Python que simule o atendimento usando <strong>duas filas</strong>:</p><pre style=\"background: #f7f7f7; border: 1px solid #ddd; border-radius: 6px; padding: 12px; overflow-x: auto;\"><code>fila_urgente\r\nfila_normal</code></pre><p><strong>Regras do sistema:</strong></p><ol><li>solicitações urgentes entram na <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">fila_urgente</code>;</li><li>solicitações normais entram na <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">fila_normal</code>;</li><li>ao atender, o sistema deve verificar primeiro se há alguém na fila urgente;</li><li>se houver solicitação urgente, ela deve ser atendida antes das normais;</li><li>se não houver ninguém na fila urgente, o sistema atende a fila normal;</li><li>dentro de cada fila, a ordem deve continuar sendo FIFO;</li><li>o sistema deve permitir cadastrar solicitações, atender a próxima, listar pendentes e encerrar.</li></ol><p>Use <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">deque</code>, <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">append()</code> e <code style=\"background: #f4f4f4; padding: 2px 5px; border-radius: 4px;\">popleft()</code>.</p><p><strong>Exemplo de estrutura esperada:</strong></p><pre style=\"background: #f7f7f7; border: 1px solid #ddd; border-radius: 6px; padding: 12px; overflow-x: auto;\"><code>from collections import deque\r\n\r\nfila_urgente = deque()\r\nfila_normal = deque()</code></pre><p><strong>Exemplo de menu esperado:</strong></p><pre style=\"background: #f7f7f7; border: 1px solid #ddd; border-radius: 6px; padding: 12px; overflow-x: auto;\"><code>1 - Cadastrar solicitação\r\n2 - Atender próxima solicitação\r\n3 - Listar solicitações pendentes\r\n4 - Exibir quantidade de pendentes\r\n5 - Sair</code></pre><p><strong>Desafio adicional:</strong></p><p>Ao listar as solicitações pendentes, exiba separadamente:</p><ul><li>solicitações urgentes;</li><li>solicitações normais;</li><li>quantidade de solicitações em cada fila.</li></ul><p><strong>Importante:</strong></p><p>Mesmo que a fila urgente tenha prioridade, a ordem dentro dela também deve respeitar FIFO. Ou seja, entre as solicitações urgentes, a primeira urgente cadastrada deve ser a primeira urgente atendida.</p></div>",
+              "created": "2026-06-02T00:15:19.398Z",
+              "modified": "2026-06-09T00:32:01.051Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_8049266_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14504660_1",
+          "parentId": "_14090548_1",
+          "title": "[08/06] Nós & Listas encadeadas",
+          "created": "2026-06-07T21:29:48.314Z",
+          "modified": "2026-06-07T21:29:57.666Z",
+          "position": 14,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14504661_1",
+              "parentId": "_14504660_1",
+              "title": "Material",
+              "body": "<div style=\"font-family: Arial, Helvetica, sans-serif; color: #222; line-height: 1.6; max-width: 100%;\"><div style=\"background: #f5f7fb; border-left: 6px solid #5b7cfa; padding: 18px 20px; border-radius: 8px; margin-bottom: 18px;\"><h3 style=\"margin: 0 0 8px 0; font-size: 24px; color: #1f2a44;\">Aula: Nós e Listas Encadeadas</h3><p style=\"margin: 0; font-size: 15px;\">Nesta aula, vamos estudar o conceito de <strong>nó</strong>, o funcionamento da <strong>alocação encadeada</strong> e a construção de uma <strong>lista encadeada simples</strong>, relacionando essa estrutura com <strong>pilhas</strong> e <strong>filas</strong>.</p></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 8px; padding: 18px 20px; margin-bottom: 18px;\"><h4 style=\"margin-top: 0; font-size: 18px; color: #2d3a58;\">Apostila da aula</h4><p style=\"margin-bottom: 0;\">Acesse a apostila completa no Notion: <br><a href=\"https://satisfying-trust-330.notion.site/Apostila-N-s-e-Listas-Encadeadas-37890616026881dda5ece16887b68c9b?pvs=73\" target=\"_blank\" style=\"color: #2a5bd7; font-weight: bold; text-decoration: none;\" rel=\"noopener\"> Apostila — Nós e Listas Encadeadas </a></p></div><div style=\"background: #ffffff; border: 1px solid #e3e7ef; border-radius: 8px; padding: 18px 20px; margin-bottom: 18px;\"><h4 style=\"margin-top: 0; font-size: 18px; color: #2d3a58;\">Vídeos de apoio</h4><p style=\"margin-top: 0;\">Os vídeos abaixo podem ser utilizados para complementar o estudo do conteúdo:</p><ul style=\"padding-left: 22px; margin-bottom: 0;\"><li style=\"margin-bottom: 10px;\"><strong>Nó e alocação encadeada</strong><br><a href=\"https://www.youtube.com/watch?v=EUUlB4Rmhf0&amp;list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp&amp;index=7\" target=\"_blank\" style=\"color: #2a5bd7; text-decoration: none;\" rel=\"noopener\"> Assistir vídeo </a></li><li style=\"margin-bottom: 10px;\"><strong>Construindo uma lista encadeada</strong><br><a href=\"https://www.youtube.com/watch?v=jIM87UqOq3g&amp;list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp&amp;index=8\" target=\"_blank\" style=\"color: #2a5bd7; text-decoration: none;\" rel=\"noopener\"> Assistir vídeo </a></li><li><strong>Inserção e remoção em listas</strong><br><a href=\"https://www.youtube.com/watch?v=tJGkcSqcPms&amp;list=PL5TJqBvpXQv5Bb71AE5Cd_kB5rNsfU4Cp&amp;index=9\" target=\"_blank\" style=\"color: #2a5bd7; text-decoration: none;\" rel=\"noopener\"> Assistir vídeo </a></li></ul></div></div>",
+              "created": "2026-06-07T21:30:29.076Z",
+              "modified": "2026-06-07T21:31:05.822Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14504663_1",
+              "parentId": "_14504660_1",
+              "title": "[Laboratório] Exercícios da apostila 3",
+              "body": "<p>Entregue aqui os exercícios da apostila!</p>",
+              "created": "2026-06-07T21:31:45.388Z",
+              "modified": "2026-06-07T21:31:45.416Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_8055779_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14527730_1",
+          "parentId": "_14090548_1",
+          "title": "[15/06] Arvores",
+          "created": "2026-06-15T21:26:09.412Z",
+          "modified": "2026-06-15T21:26:09.412Z",
+          "position": 15,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14527732_1",
+              "parentId": "_14527730_1",
+              "title": "Apostila",
+              "body": "<p>Acesse a apostila completa da aula: <a href=\"https://satisfying-trust-330.notion.site/Apostila-rvores-Bin-rias-de-Busca-38090616026881819ce6ddc5f5372b37?pvs=73\">https://satisfying-trust-330.notion.site/Apostila-rvores-Bin-rias-de-Busca-38090616026881819ce6ddc5f5372b37?pvs=73</a>&nbsp;</p>",
+              "created": "2026-06-15T21:27:01.694Z",
+              "modified": "2026-06-22T22:28:35.949Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14527734_1",
+              "parentId": "_14527730_1",
+              "title": "[Laboratorio] Exercicios da Apostila - Arvores",
+              "body": "<p>Entregue aqui os exercicios da apostila de arvores.</p>",
+              "created": "2026-06-15T21:27:46.590Z",
+              "modified": "2026-06-15T21:27:46.636Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_8070081_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            },
+            {
+              "id": "_14550317_1",
+              "parentId": "_14527730_1",
+              "title": "[Atividade Aula] Exercicio de Arvores",
+              "body": "<p>Resolva o exercício de arvores exibido na aula e envie aqui a solução</p>",
+              "created": "2026-06-22T23:16:06.528Z",
+              "modified": "2026-06-22T23:16:06.557Z",
+              "position": 2,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_8082131_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14566460_1",
+          "parentId": "_14090548_1",
+          "title": "[29/06] Remoção em Arvores",
+          "created": "2026-06-30T00:18:33.349Z",
+          "modified": "2026-06-30T00:18:33.349Z",
+          "position": 16,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14566461_1",
+              "parentId": "_14566460_1",
+              "title": "Apostila de Remoção",
+              "body": "<p>Aqui você encontra a segunda parte da apostila:</p><p><a href=\"https://satisfying-trust-330.notion.site/Apostila-rvores-Bin-rias-de-Busca-Parte-2-Remo-o-38f906160268815b8df5e4cb525af5c5?pvs=73\">https://satisfying-trust-330.notion.site/Apostila-rvores-Bin-rias-de-Busca-Parte-2-Remo-o-38f906160268815b8df5e4cb525af5c5?pvs=73</a></p>",
+              "created": "2026-06-30T00:19:00.169Z",
+              "modified": "2026-06-30T00:19:00.169Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-document"
+              }
+            },
+            {
+              "id": "_14566462_1",
+              "parentId": "_14566460_1",
+              "title": "[Laboratorio] Exercicios da apostila parte 2",
+              "body": "<p>Envie aqui os exercicios da parte 2 da apostila feitos.</p>",
+              "created": "2026-06-30T00:19:56.166Z",
+              "modified": "2026-06-30T00:19:56.213Z",
+              "position": 1,
+              "hasGradebookColumns": true,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-assignment",
+                "gradeColumnId": "_8090724_1",
+                "groupContent": false,
+                "originalityReportingTool": {
+                  "id": "safeAssign",
+                  "checkSubmission": false,
+                  "studentViewReports": false,
+                  "excludeSubmissionsFromDatabases": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "_14603151_1",
+          "parentId": "_14090548_1",
+          "title": "Avaliação Final",
+          "created": "2026-07-06T22:00:36.862Z",
+          "modified": "2026-07-06T22:00:36.862Z",
+          "position": 17,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": [
+            {
+              "id": "_14603152_1",
+              "parentId": "_14603151_1",
+              "title": "Material para a parte 2",
+              "created": "2026-07-06T22:00:51.960Z",
+              "modified": "2026-07-06T22:00:51.960Z",
+              "position": 0,
+              "launchInNewWindow": false,
+              "reviewable": false,
+              "availability": {
+                "available": "Yes",
+                "allowGuests": true,
+                "allowObservers": true,
+                "adaptiveRelease": {}
+              },
+              "contentHandler": {
+                "id": "resource/x-bb-file",
+                "file": {
+                  "fileName": "projeto-estrutura.zip",
+                  "mimeType": "application/zip"
+                },
+                "fileAssociationMode": "Embed"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

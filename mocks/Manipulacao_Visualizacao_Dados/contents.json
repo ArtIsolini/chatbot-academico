@@ -1,0 +1,753 @@
+{
+  "results": [
+    {
+      "id": "_14077846_1",
+      "title": "Cronograma de estudos",
+      "created": "2015-02-19T12:41:38.000Z",
+      "modified": "2026-02-18T12:43:16.557Z",
+      "position": 2,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": false,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-folder"
+      },
+      "children": [
+        {
+          "id": "_14077853_1",
+          "parentId": "_14077846_1",
+          "title": "Cronograma de estudos",
+          "body": "<p>Insira aqui o cronograma de estudos do componentes.</p>",
+          "created": "2013-08-27T20:27:39.000Z",
+          "modified": "2026-02-18T12:43:16.565Z",
+          "position": 0,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        },
+        {
+          "id": "_14077854_1",
+          "parentId": "_14077846_1",
+          "title": "Tradutor para Libras",
+          "body": "<div vw=\"\" class=\"enabled\"> \n <div vw-access-button=\"\" class=\"active\"></div> \n <div vw-plugin-wrapper=\"\"> \n  <div class=\"vw-plugin-top-wrapper\"></div> \n </div> \n</div> \n<script src=\"https://vlibras.gov.br/app/vlibras-plugin.js\"></script> \n<script>\r\n    new window.VLibras.Widget('https://vlibras.gov.br/app');\r\n  </script>",
+          "created": "2022-08-02T18:19:56.000Z",
+          "modified": "2026-02-18T12:43:16.580Z",
+          "position": 1,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        }
+      ]
+    },
+    {
+      "id": "_14077845_1",
+      "title": "Espaço de interação",
+      "created": "2015-02-19T12:41:38.000Z",
+      "modified": "2026-02-18T12:43:16.577Z",
+      "position": 3,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": false,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-folder"
+      },
+      "children": [
+        {
+          "id": "_14077850_1",
+          "parentId": "_14077845_1",
+          "title": "Fórum de Apresentação",
+          "created": "2013-09-26T18:40:31.000Z",
+          "modified": "2026-02-18T12:43:16.573Z",
+          "position": 0,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-forumlink",
+            "discussionId": "_950537_1"
+          }
+        },
+        {
+          "id": "_14077851_1",
+          "parentId": "_14077845_1",
+          "title": "Fórum de dúvidas",
+          "created": "2013-09-26T18:41:10.000Z",
+          "modified": "2026-02-18T12:43:16.569Z",
+          "position": 1,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-forumlink",
+            "discussionId": "_950538_1"
+          }
+        },
+        {
+          "id": "_14077852_1",
+          "parentId": "_14077845_1",
+          "title": "Tradutor para Libras",
+          "body": "<div vw=\"\" class=\"enabled\"> \n <div vw-access-button=\"\" class=\"active\"></div> \n <div vw-plugin-wrapper=\"\"> \n  <div class=\"vw-plugin-top-wrapper\"></div> \n </div> \n</div> \n<script src=\"https://vlibras.gov.br/app/vlibras-plugin.js\"></script> \n<script>\r\n    new window.VLibras.Widget('https://vlibras.gov.br/app');\r\n  </script>",
+          "created": "2022-08-02T18:20:12.000Z",
+          "modified": "2026-02-18T12:43:16.538Z",
+          "position": 2,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        }
+      ]
+    },
+    {
+      "id": "_14077848_1",
+      "title": "Conteúdos",
+      "created": "2015-02-19T12:43:46.000Z",
+      "modified": "2026-02-18T12:43:16.552Z",
+      "position": 6,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": false,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-folder"
+      },
+      "children": [
+        {
+          "id": "_14077856_1",
+          "parentId": "_14077848_1",
+          "title": "Tradutor para Libras",
+          "body": "<div vw=\"\" class=\"enabled\"> \n <div vw-access-button=\"\" class=\"active\"></div> \n <div vw-plugin-wrapper=\"\"> \n  <div class=\"vw-plugin-top-wrapper\"></div> \n </div> \n</div> \n<script src=\"https://vlibras.gov.br/app/vlibras-plugin.js\"></script> \n<script>\r\n    new window.VLibras.Widget('https://vlibras.gov.br/app');\r\n  </script>",
+          "created": "2022-08-02T18:20:30.000Z",
+          "modified": "2026-02-18T12:43:16.530Z",
+          "position": 0,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        },
+        {
+          "id": "_14156474_1",
+          "parentId": "_14077848_1",
+          "title": "Miro da Turma",
+          "created": "2026-03-10T21:58:07.603Z",
+          "modified": "2026-03-10T21:58:15.785Z",
+          "position": 1,
+          "launchInNewWindow": true,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-externallink",
+            "url": "https://miro.com/app/board/uXjVGzvNP9k=/?share_link_id=576348813121"
+          }
+        },
+        {
+          "id": "_14156333_1",
+          "parentId": "_14077848_1",
+          "title": "Plano de Ensino",
+          "created": "2026-03-10T19:34:58.545Z",
+          "modified": "2026-03-10T21:58:15.782Z",
+          "position": 2,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-file",
+            "file": {
+              "fileName": "2026.01 - PLANO DE ENSINO - Visualização de Dados.docx",
+              "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            },
+            "fileAssociationMode": "Embed"
+          }
+        },
+        {
+          "id": "_14139267_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 02 - Plano de Ensino, Datasets e Limpeza de Dados",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14139267-dt-content-rid-380355718_1/xid-380355718_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=TgbLEwqeqbUDew2ok3g%2FxpSLeWxv96zd%2F%2BImDFYfs1A%3D\" target=\"_blank\" rel=\"noopener\">2026.01 - VMD - AULA 01.pptx</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14139267-dt-content-rid-380355701_1/xid-380355701_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=qWxnKvb7TOvNNihx4bawi1%2FnSw4SM7GybZwnker3LmA%3D\" target=\"_blank\" rel=\"noopener\">Base Grande.xlsx</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14139267-dt-content-rid-380355702_1/xid-380355702_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=NEBsjpDSM7fHbllyxN6%2FZYTMhIcTghDec%2FCFwJMnYME%3D\" target=\"_blank\" rel=\"noopener\">Base Média.xlsx</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14139267-dt-content-rid-380355703_1/xid-380355703_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=xPglgYI2l1zFLBKnmxtHLdLv%2BqE%2F2zKOfVUH5a1DOR4%3D\" target=\"_blank\" rel=\"noopener\">Base Pequena.xlsx</a><br>&nbsp;</p>",
+          "created": "2026-03-05T20:07:48.839Z",
+          "modified": "2026-03-10T21:58:15.783Z",
+          "position": 3,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14179440_1",
+          "parentId": "_14077848_1",
+          "title": "Aula 03 - Prática - O detetive de dados",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14179440-dt-content-rid-381258856_1/xid-381258856_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=bN%2BGgKVaeazcl%2Fh2KkQGyLIA2T77%2F%2BLpvxjGI1y9MIU%3D\" target=\"_blank\" rel=\"noopener\">Preparacao-de-Dados.pdf</a><br>&nbsp;<br><br>&nbsp;</p>",
+          "created": "2026-03-17T20:28:32.375Z",
+          "modified": "2026-03-18T00:07:25.828Z",
+          "position": 4,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14197764_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 04 - Funções avançadas de análise de dados em Excel",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14197764-dt-content-rid-381781496_1/xid-381781496_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=xdW1W%2FDFC10YxdXaCrt7bWpSuOjWaww%2BSSS6PRswGvA%3D\" target=\"_blank\" rel=\"noopener\">Operacoes-Avancadas-em-Planilhas-Filtros-e-Formulas.pdf</a><br>&nbsp;</p><p><br></p><p><a href=\"https://www1.ufrgs.br/aplicacoesyii2/frontend/web/dadosabertos/publico/detalhes?codConsulta=38\">https://www1.ufrgs.br/aplicacoesyii2/frontend/web/dadosabertos/publico/detalhes?codConsulta=38</a></p>",
+          "created": "2026-03-24T22:03:55.333Z",
+          "modified": "2026-03-24T22:35:54.822Z",
+          "position": 5,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14234671_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 05 - Gráficos",
+          "body": "<p><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581520_1/xid-382581520_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=GcWEZ5owNF4VwKpSL3mshuOEPXEme1Elbolo1p8prL4%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2016_20160913.xlsx</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581521_1/xid-382581521_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=Fhj0mV3FiBdF8nkW3TtlyBQDQEiIqd%2F7ICElXdgaFo4%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2017.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581522_1/xid-382581522_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=vVCJ5EoYIZ6iEwzWm5GVpk9MIDw4F66tCrxnucpQDvA%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2018_20181019.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581523_1/xid-382581523_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=q4RKOOzYUA7q9knn6%2BZkC2EbIJ23ebgg9ooboo39jtc%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2019.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581524_1/xid-382581524_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=hF0bt8w4E3olWITvPhc7Msn7kHebsjctcLr1MbE%2BndM%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2020.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581525_1/xid-382581525_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=SFEdOkrXjQXEC2dRSKa7G3yRnqr9NKwCZRFKUBd4EPc%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2021.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581526_1/xid-382581526_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=UPnYbsm16J5zttnlTyQHxQ%2BSeQ7POevUAHsHWwSSylc%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2024.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581527_1/xid-382581527_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=LPDfNIraXiYjTjt9eQsdvW6PjEwAoMvVIlsIOB78B4M%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2025-2.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br></a><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382581528_1/xid-382581528_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=nO6FuStMa%2FKsunJsh%2BlDyCdqg1OvXsby8eE%2FHLXqe8A%3D\" target=\"_blank\" rel=\"noopener\">estimativa_dou_2025.xls</a><a href=\"https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&amp;t=downloads\"><br>&nbsp;Estimativas da população residente para os municípios e para as unidades da federação | IBGE</a></p><p><br></p><p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14234671-dt-content-rid-382576816_1/xid-382576816_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=1InNbGleC9kQYQFKmVdl%2BARBa2aRdy1OHoGsMtarMw0%3D\" target=\"_blank\" rel=\"noopener\">Aula-5-Introducao-a-Graficos-em-Planilhas-e-Analise-Exploratoria-de-Dados.pdf</a><br>&nbsp;</p>",
+          "created": "2026-03-31T21:56:04.067Z",
+          "modified": "2026-03-31T23:17:19.649Z",
+          "position": 6,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14259420_1",
+          "parentId": "_14077848_1",
+          "title": "Aula 06",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14259420-dt-content-rid-383049334_1/xid-383049334_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=53OhLmu8lGuYY7k%2FThucAjWk2N4qebPC%2BoYJP5OdJP0%3D\" target=\"_blank\" rel=\"noopener\">Aula 06 - Dataset 3 (correto).xlsx</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14259420-dt-content-rid-383020168_1/xid-383020168_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=cRVh37EnyXXMLyTalvB%2B9Zx3PSf73%2FVT0h%2BhgDDMaDs%3D\" target=\"_blank\" rel=\"noopener\">Aula 06 - dataset1.xlsx</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14259420-dt-content-rid-383020169_1/xid-383020169_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=JNPVn4yueZe0B0xVdIWgGDa9zVvOojqf8ctr2T3LosA%3D\" target=\"_blank\" rel=\"noopener\">Aula06 - Dataset 2.xlsx</a><br>&nbsp;</p><p><br></p><p data-end=\"685\" data-start=\"461\"><strong data-end=\"478\" data-start=\"461\">Tema da aula:</strong>&nbsp;Tipos de gráficos e suas aplicações<br data-end=\"517\" data-start=\"514\"><strong data-end=\"535\" data-start=\"517\">Base no plano:</strong>&nbsp;Aula 06 — estudo de gráficos e suas aplicações contextuais; continuidade prática do laboratório com computador.&nbsp;</p><h3 data-end=\"712\" data-start=\"687\" data-section-id=\"u59yua\"><span style=\"font-size: 12pt;\">Objetivo da atividade</span></h3><p data-end=\"856\" data-start=\"713\"><span style=\"font-size: 12pt;\">Nesta atividade, vocês irão trabalhar com&nbsp;três bases de dados pequenas, cada uma com problemas de organização e consistência. O objetivo é:</span></p><ol data-end=\"1122\" data-start=\"858\"><li data-end=\"914\" data-start=\"858\" data-section-id=\"s7u2n4\"><span style=\"font-size: 12pt;\">identificar os problemas existentes em cada base;</span></li><li data-end=\"954\" data-start=\"915\" data-section-id=\"72x34\"><span style=\"font-size: 12pt;\">realizar os ajustes necessários;</span></li><li data-end=\"999\" data-start=\"955\" data-section-id=\"1qtcv0q\"><span style=\"font-size: 12pt;\">justificar as decisões de tratamento;</span></li><li data-end=\"1039\" data-start=\"1000\" data-section-id=\"xmgynj\"><span style=\"font-size: 12pt;\">organizar os dados para análise;</span></li><li data-end=\"1122\" data-start=\"1040\" data-section-id=\"6cpnvd\"><span style=\"font-size: 12pt;\">produzir gráficos coerentes com o tipo de informação presente em cada base.</span></li></ol><p data-end=\"1303\" data-start=\"1124\"><span style=\"font-size: 12pt;\">Esta atividade começa no entendimento do dado. Antes de visualizar, vocês devem demonstrar que sabem&nbsp;ler, estruturar, limpar e validar&nbsp;uma base.</span></p><p data-end=\"1409\" data-start=\"1325\"><span style=\"font-size: 12pt;\">Ao realizar o exercício,&nbsp;sigam tudo o que já foi aprendido nas aulas anteriores. </span><span style=\"font-size: 12pt;\">Vocês devem aplicar, com cuidado:</span></p><ul data-end=\"1801\" data-start=\"1465\"><li data-end=\"1507\" data-start=\"1465\" data-section-id=\"1gwqleg\"><span style=\"font-size: 12pt;\">os conceitos de&nbsp;dataset e variáveis;</span></li><li data-end=\"1547\" data-start=\"1508\" data-section-id=\"18adwcx\"><span style=\"font-size: 12pt;\">a distinção entre&nbsp;tipos de dados;</span></li><li data-end=\"1593\" data-start=\"1548\" data-section-id=\"10l11yz\"><span style=\"font-size: 12pt;\">os princípios de&nbsp;estruturação de bases;</span></li><li data-end=\"1637\" data-start=\"1594\" data-section-id=\"1h1j3p8\"><span style=\"font-size: 12pt;\">os procedimentos de&nbsp;limpeza de dados;</span></li><li data-end=\"1699\" data-start=\"1638\" data-section-id=\"i48ey6\"><span style=\"font-size: 12pt;\">o uso de&nbsp;filtros, fórmulas e conferências em planilhas;</span></li><li data-end=\"1801\" data-start=\"1700\" data-section-id=\"1lzwqfz\"><span style=\"font-size: 12pt;\">e os primeiros critérios de&nbsp;escolha adequada de gráficos.&nbsp;</span></li></ul><p data-end=\"1945\" data-start=\"1803\"><span style=\"font-size: 12pt;\">Não tratem esta atividade como “fazer três gráficos”.</span><br data-end=\"1859\" data-start=\"1856\"><span style=\"font-size: 12pt;\">O exercício é, antes de tudo, um exercício de&nbsp;preparação e raciocínio sobre dados.</span></p><h1 data-end=\"1977\" data-start=\"1952\" data-section-id=\"c8sk72\"><span style=\"font-size: 12pt;\">O que fazer</span></h1><h1 data-end=\"1977\" data-start=\"1952\" data-section-id=\"c8sk72\"><span style=\"font-size: 12pt;\">Parte 1 — Ler a base antes de mexer nela</span></h1><p data-end=\"2086\" data-start=\"2023\"><span style=\"font-size: 12pt;\">Antes de corrigir qualquer coisa, observem cada base com calma.</span></p><p data-end=\"2140\" data-start=\"2088\"><span style=\"font-size: 12pt;\">Para cada uma, respondam mentalmente ou em anotação:</span></p><ul data-end=\"2432\" data-start=\"2142\"><li data-end=\"2166\" data-start=\"2142\" data-section-id=\"tvli39\"><span style=\"font-size: 12pt;\">Qual é o tema da base?</span></li><li data-end=\"2198\" data-start=\"2167\" data-section-id=\"sjnm55\"><span style=\"font-size: 12pt;\">O que cada coluna representa?</span></li><li data-end=\"2235\" data-start=\"2199\" data-section-id=\"1m11df8\"><span style=\"font-size: 12pt;\">Quais variáveis parecem numéricas?</span></li><li data-end=\"2270\" data-start=\"2236\" data-section-id=\"rgxsym\"><span style=\"font-size: 12pt;\">Quais variáveis são categóricas?</span></li><li data-end=\"2298\" data-start=\"2271\" data-section-id=\"b0inwv\"><span style=\"font-size: 12pt;\">Existe variável temporal?</span></li><li data-end=\"2363\" data-start=\"2299\" data-section-id=\"1ijgwyx\"><span style=\"font-size: 12pt;\">Há erros visíveis de digitação, padronização ou preenchimento?</span></li><li data-end=\"2432\" data-start=\"2364\" data-section-id=\"1exd6qc\"><span style=\"font-size: 12pt;\">Que tipo de gráfico essa base parece permitir depois de corrigida?</span></li></ul><p data-end=\"2527\" data-start=\"2434\"><span style=\"font-size: 12pt;\">Aqui, a atenção principal é:&nbsp;não sair alterando valores sem compreender a lógica da base.</span></p><h2 data-end=\"2572\" data-start=\"2534\" data-section-id=\"1mboio4\"><span style=\"font-size: 12pt;\">Parte 2 — Diagnóstico dos problemas</span></h2><p data-end=\"2647\" data-start=\"2573\"><span style=\"font-size: 12pt;\">Depois da leitura inicial, vocês devem fazer um&nbsp;diagnóstico dos erros.</span></p><p data-end=\"2673\" data-start=\"2649\"><span style=\"font-size: 12pt;\">Procurem, especialmente:</span></p><h3 data-end=\"2707\" data-start=\"2675\" data-section-id=\"9s46ym\"><span style=\"font-size: 12pt;\">1. Problemas de padronização</span></h3><p data-end=\"2717\" data-start=\"2708\"><span style=\"font-size: 12pt;\">Exemplos:</span></p><ul data-end=\"2898\" data-start=\"2718\"><li data-end=\"2765\" data-start=\"2718\" data-section-id=\"15yvq3y\"><span style=\"font-size: 12pt;\">mesma categoria escrita de formas diferentes;</span></li><li data-end=\"2808\" data-start=\"2766\" data-section-id=\"tx66uj\"><span style=\"font-size: 12pt;\">uso de maiúsculas/minúsculas sem padrão;</span></li><li data-end=\"2838\" data-start=\"2809\" data-section-id=\"dftjy\"><span style=\"font-size: 12pt;\">presença de espaços extras;</span></li><li data-end=\"2866\" data-start=\"2839\" data-section-id=\"26pjbn\"><span style=\"font-size: 12pt;\">acentuação inconsistente;</span></li><li data-end=\"2898\" data-start=\"2867\" data-section-id=\"1e6inzb\"><span style=\"font-size: 12pt;\">datas em formatos diferentes.</span></li></ul><h3 data-end=\"2932\" data-start=\"2900\" data-section-id=\"qw3dtb\"><span style=\"font-size: 12pt;\">2. Problemas de tipo de dado</span></h3><p data-end=\"2942\" data-start=\"2933\"><span style=\"font-size: 12pt;\">Exemplos:</span></p><ul data-end=\"3087\" data-start=\"2943\"><li data-end=\"2972\" data-start=\"2943\" data-section-id=\"1cjeyhf\"><span style=\"font-size: 12pt;\">número digitado como texto;</span></li><li data-end=\"3003\" data-start=\"2973\" data-section-id=\"q48i3s\"><span style=\"font-size: 12pt;\">data reconhecida como texto;</span></li><li data-end=\"3051\" data-start=\"3004\" data-section-id=\"ijvnp2\"><span style=\"font-size: 12pt;\">célula vazia em coluna que deveria ter valor;</span></li><li data-end=\"3087\" data-start=\"3052\" data-section-id=\"i2s6c1\"><span style=\"font-size: 12pt;\">valor textual em coluna numérica.</span></li></ul><h3 data-end=\"3121\" data-start=\"3089\" data-section-id=\"1tmggsz\"><span style=\"font-size: 12pt;\">3. Problemas de consistência</span></h3><p data-end=\"3131\" data-start=\"3122\"><span style=\"font-size: 12pt;\">Exemplos:</span></p><ul data-end=\"3297\" data-start=\"3132\"><li data-end=\"3164\" data-start=\"3132\" data-section-id=\"gfa84s\"><span style=\"font-size: 12pt;\">valores negativos sem sentido;</span></li><li data-end=\"3213\" data-start=\"3165\" data-section-id=\"oa715\"><span style=\"font-size: 12pt;\">tempos iguais a zero quando não fazem sentido;</span></li><li data-end=\"3256\" data-start=\"3214\" data-section-id=\"b9chvv\"><span style=\"font-size: 12pt;\">relação incoerente entre duas variáveis;</span></li><li data-end=\"3297\" data-start=\"3257\" data-section-id=\"1dm9ydb\"><span style=\"font-size: 12pt;\">campo faltante em registro importante.</span></li></ul><h3 data-end=\"3333\" data-start=\"3299\" data-section-id=\"32kibu\"><span style=\"font-size: 12pt;\">4. Problemas para visualização</span></h3><p data-end=\"3343\" data-start=\"3334\"><span style=\"font-size: 12pt;\">Exemplos:</span></p><ul data-end=\"3505\" data-start=\"3344\"><li data-end=\"3388\" data-start=\"3344\" data-section-id=\"1jpc7zg\"><span style=\"font-size: 12pt;\">categorias duplicadas por erro de escrita;</span></li><li data-end=\"3411\" data-start=\"3389\" data-section-id=\"1fj2rcq\"><span style=\"font-size: 12pt;\">datas fora de ordem;</span></li><li data-end=\"3444\" data-start=\"3412\" data-section-id=\"13bjoqz\"><span style=\"font-size: 12pt;\">muitos rótulos inconsistentes;</span></li><li data-end=\"3505\" data-start=\"3445\" data-section-id=\"1lmfpne\"><span style=\"font-size: 12pt;\">agregações que ficam erradas por conta da sujeira da base.</span></li></ul><p data-end=\"3677\" data-start=\"3507\"><span style=\"font-size: 12pt;\">Nesta etapa, vocês devem prestar atenção ao seguinte ponto:</span> <span style=\"font-size: 12pt;\">um gráfico pode ficar visualmente bonito e, ainda assim, estar errado porque a base foi mal ajustada.</span></p>",
+          "created": "2026-04-07T16:31:13.269Z",
+          "modified": "2026-04-07T22:31:38.953Z",
+          "position": 7,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14367185_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 07 - GRÁFICOS",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14367185-dt-content-rid-385282555_1/xid-385282555_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=RvCrSerlYhlbndCYdMcvv%2B6FJjscX8c1quQ5p7nHpw0%3D\" target=\"_blank\" rel=\"noopener\">Graficos-mostram-uma-versao-da-verdade-2.pdf</a><br>&nbsp;</p>",
+          "created": "2026-04-28T22:03:34.644Z",
+          "modified": "2026-04-28T22:04:00.080Z",
+          "position": 8,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14367135_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 09 - ATIVIDADE PRÁTICA EM GRUPOS",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14367135-dt-content-rid-385281645_1/xid-385281645_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=17Kg410WmsF%2Fcpmu5kzeP20L2vODSHDsKUPrT%2F%2F8mFs%3D\" target=\"_blank\" rel=\"noopener\">Atividade-Pratica-de-Analise-de-Dados.pdf</a><br>&nbsp;</p>",
+          "created": "2026-04-28T22:00:19.002Z",
+          "modified": "2026-04-28T22:03:51.301Z",
+          "position": 9,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14460501_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 12 - Programação (Python)",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14460501-dt-content-rid-387963786_1/xid-387963786_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=WINBqLJ2Ttn7OR%2FUdjQAVrlPKNJJEZcYX1Gj0jyUWm0%3D\" target=\"_blank\" rel=\"noopener\">vendas.csv</a><br>&nbsp;<br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14460501-dt-content-rid-387963794_1/xid-387963794_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=UG6xr3iLrcNuOafbP%2FYamtblst7aBHNt%2F1mrTwgGTWg%3D\" target=\"_blank\" rel=\"noopener\">Do-Zero-ao-Primeiro-Grafico.pdf</a><br>&nbsp;<br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14460501-dt-content-rid-387963797_1/xid-387963797_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=Tpxc%2BdNECxcTiPAOvMSgyCrgEG9vhtmzpg8MnCaJEuQ%3D\" target=\"_blank\" rel=\"noopener\">Passo a Passo aula 12 - Python-para-Analise-de-Dados.pdf</a><br>&nbsp;<br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14460501-dt-content-rid-387963821_1/xid-387963821_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=pb8nyzn4sEf2o8BcCGAAo2PGnLQvNrE24cCMTa%2FmDYU%3D\" target=\"_blank\" rel=\"noopener\">comandos_python_dados.xlsx</a></p><p><br></p><div style=\"max-width: 650px; border: 1px solid rgb(170, 170, 170); box-shadow: rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px; padding: 10px; overflow: hidden; margin-bottom: 1em;\" data-ephox-embed-iri=\"https://colab.research.google.com\"><a href=\"https://colab.research.google.com\" style=\"text-decoration: none; color: inherit;\"> <img alt=\"\" src=\"https://colab.research.google.com/img/colab_favicon_256px.png\" style=\"max-width: 180px; max-height: 180px; margin-left: 2em; float: right;\"> </a> <a href=\"https://colab.research.google.com\" style=\"text-decoration: none; color: inherit;\"> <span style=\"font-size: 1.2em; display: block;\">Google Colab</span> </a></div><p><br></p><p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14460501-dt-content-rid-387972623_1/xid-387972623_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=pLFqeSPZ%2BXZZLGmDBqlELqFxGdOz92bjMMcPu4RsBEs%3D\" target=\"_blank\" rel=\"noopener\">Analise-de-Dados-Financeiros-com-Python.pdf</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14460501-dt-content-rid-387972624_1/xid-387972624_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=4KhH4%2BFuJUFPZwnFxrYi%2FolzNt52MY6XTCWenMB4Upc%3D\" target=\"_blank\" rel=\"noopener\">comandos_financeiro.xlsx</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14460501-dt-content-rid-387972625_1/xid-387972625_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=gORIR0voqjDhpK6R3sLNIn3F7FPzEJcm0Bv0IJT1z1A%3D\" target=\"_blank\" rel=\"noopener\">financeiro.csv</a><br>&nbsp;</p>",
+          "created": "2026-05-19T21:45:37.628Z",
+          "modified": "2026-05-19T23:44:25.403Z",
+          "position": 10,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14494862_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 13 - Business Intelligence",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14494862-dt-content-rid-388974044_1/xid-388974044_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=%2BMjmzJTDYsAQaS4ECGRBA9TQHiH6It77kDSFXYWHa%2FY%3D\" target=\"_blank\" rel=\"noopener\">Business-Intelligence.pdf</a><br>&nbsp;</p>",
+          "created": "2026-06-02T21:58:47.902Z",
+          "modified": "2026-06-02T21:58:47.902Z",
+          "position": 11,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14494900_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 14 - DASHBOARDS",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14494900-dt-content-rid-388981168_1/xid-388981168_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=4Fk%2BGiP0IzcUfHwDdn7%2FY%2BGBvv%2FMJEsjaEhFKbsbkEU%3D\" target=\"_blank\" rel=\"noopener\">Atividade Prática Integrada - Debate ético.pdf</a><br>&nbsp;<br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14494900-dt-content-rid-388973577_1/xid-388973577_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=ibADtBPl4pMfPk%2Bdq8Nv%2FSnYsXPGA7LnB6w9ZQL846s%3D\" target=\"_blank\" rel=\"noopener\">O-Poder-dos-Dashboards-e-Storytelling-com-Dados.pdf</a><br>&nbsp;<br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14494900-dt-content-rid-388974401_1/xid-388974401_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=7USV6T90gBRclBpI11qiAJTAJZre%2B%2FiR8yakDMgpgk8%3D\" target=\"_blank\" rel=\"noopener\">base_testes_clinicos_complexa.csv</a><br>&nbsp;</p>",
+          "created": "2026-06-02T22:09:42.557Z",
+          "modified": "2026-06-02T23:25:35.318Z",
+          "position": 12,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        },
+        {
+          "id": "_14551300_1",
+          "parentId": "_14077848_1",
+          "title": "AULA 16 - TRABALHO FINAL",
+          "body": "<p><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14551300-dt-content-rid-390316828_1/xid-390316828_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=rrawju1D9%2Bv%2FWBFIX%2FkQnRAAVk1uJPL5TRm6%2BLyFw3A%3D\" target=\"_blank\" rel=\"noopener\">vendas_varejo_2025.csv</a><br><a alt=\"\" href=\"https://senac.blackboard.com/bbcswebdav/pid-14551300-dt-content-rid-390316829_1/xid-390316829_1?Kq3cZcYS15=706ea85ce2304d9d9a60e299d3e9474b&amp;VxJw3wfC56=1783555052&amp;3cCnGYSz89=w9HF2VXypuI8bJvNqUkbJDoPk0w7ouxzwfGPaHFRzOw%3D\" target=\"_blank\" rel=\"noopener\">anuncio_trabalho_final.docx</a><br>&nbsp;</p>",
+          "created": "2026-06-23T22:14:30.602Z",
+          "modified": "2026-06-23T22:14:30.602Z",
+          "position": 13,
+          "hasChildren": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-folder"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "_14077847_1",
+      "title": "Material de apoio",
+      "created": "2015-02-19T12:41:38.000Z",
+      "modified": "2026-02-18T12:43:16.561Z",
+      "position": 7,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": false,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-folder"
+      },
+      "children": [
+        {
+          "id": "_14077855_1",
+          "parentId": "_14077847_1",
+          "title": "Tradutor para Libras",
+          "body": "<div vw=\"\" class=\"enabled\"> \n <div vw-access-button=\"\" class=\"active\"></div> \n <div vw-plugin-wrapper=\"\"> \n  <div class=\"vw-plugin-top-wrapper\"></div> \n </div> \n</div> \n<script src=\"https://vlibras.gov.br/app/vlibras-plugin.js\"></script> \n<script>\r\n    new window.VLibras.Widget('https://vlibras.gov.br/app');\r\n  </script>",
+          "created": "2022-08-02T18:20:43.000Z",
+          "modified": "2026-02-18T12:43:16.534Z",
+          "position": 0,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        }
+      ]
+    },
+    {
+      "id": "_14077849_1",
+      "title": "Atividades avaliativas",
+      "created": "2015-02-19T12:45:03.000Z",
+      "modified": "2026-02-18T12:43:16.547Z",
+      "position": 9,
+      "hasChildren": true,
+      "launchInNewWindow": false,
+      "reviewable": false,
+      "availability": {
+        "available": "Yes",
+        "allowGuests": false,
+        "allowObservers": false,
+        "adaptiveRelease": {}
+      },
+      "contentHandler": {
+        "id": "resource/x-bb-folder"
+      },
+      "children": [
+        {
+          "id": "_14077857_1",
+          "parentId": "_14077849_1",
+          "title": "Tradutor para Libras",
+          "body": "<div vw=\"\" class=\"enabled\"> \n <div vw-access-button=\"\" class=\"active\"></div> \n <div vw-plugin-wrapper=\"\"> \n  <div class=\"vw-plugin-top-wrapper\"></div> \n </div> \n</div> \n<script src=\"https://vlibras.gov.br/app/vlibras-plugin.js\"></script> \n<script>\r\n    new window.VLibras.Widget('https://vlibras.gov.br/app');\r\n  </script>",
+          "created": "2022-08-02T18:20:59.000Z",
+          "modified": "2026-02-18T12:43:16.542Z",
+          "position": 0,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-document"
+          }
+        },
+        {
+          "id": "_14179445_1",
+          "parentId": "_14077849_1",
+          "title": "O Detetive de Dados",
+          "body": "<p>Realizar a atividade de preparaçao de dados conforme orientações em aula e postar o exercício aqui.&nbsp;<br><br><br></p><p><strong>Objetivo:</strong> avaliar a capacidade individual de diagnosticar problemas, limpar dados e documentar decisões, entregando dataset pronto para análise.<br><strong>Entregáveis:</strong> (1) dataset limpo (CSV/XLSX); (2) relatório curto (1–2 páginas) com problemas encontrados, correções e justificativas; (3) dicionário de dados mínimo.<br><strong>Critérios:</strong> diagnóstico/cobertura dos erros; consistência das correções; rastreabilidade (justificativas); qualidade final do dataset.</p><p><br><br><br></p>",
+          "created": "2026-03-17T20:34:24.224Z",
+          "modified": "2026-03-17T20:34:24.253Z",
+          "position": 1,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_7876720_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        },
+        {
+          "id": "_14260052_1",
+          "parentId": "_14077849_1",
+          "title": "AULA 06 - Atividades de Gráficos - 3 Datasets",
+          "body": "<p>POSTAR AQUI OS ARQUIVOS DA AULA 06</p>",
+          "created": "2026-04-08T00:23:32.588Z",
+          "modified": "2026-04-08T00:23:32.609Z",
+          "position": 2,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_7918864_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        },
+        {
+          "id": "_14367313_1",
+          "parentId": "_14077849_1",
+          "title": "ESPAÇO PARA A ENTREGA DA ATIVIDADE DA AULA 09",
+          "created": "2026-04-28T23:27:58.439Z",
+          "modified": "2026-05-05T23:39:05.688Z",
+          "position": 3,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_7971704_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        },
+        {
+          "id": "_14460603_1",
+          "parentId": "_14077849_1",
+          "title": "Exercicio Aula 12",
+          "created": "2026-05-19T23:00:47.907Z",
+          "modified": "2026-05-20T00:32:23.659Z",
+          "position": 4,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_8030056_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        },
+        {
+          "id": "_14495027_1",
+          "parentId": "_14077849_1",
+          "title": "Atividade Aula 14",
+          "created": "2026-06-02T23:45:53.761Z",
+          "modified": "2026-06-02T23:45:53.779Z",
+          "position": 5,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_8050208_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        },
+        {
+          "id": "_14511560_1",
+          "parentId": "_14077849_1",
+          "title": "ENTREGA AULA DEBATE ÉTICO - PROF ALINE OTTES",
+          "created": "2026-06-09T21:23:19.849Z",
+          "modified": "2026-06-09T21:23:19.875Z",
+          "position": 6,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_8060280_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        },
+        {
+          "id": "_14567319_1",
+          "parentId": "_14077849_1",
+          "title": "TRABALHO FINAL",
+          "created": "2026-06-30T22:07:14.677Z",
+          "modified": "2026-06-30T23:48:34.943Z",
+          "position": 7,
+          "hasGradebookColumns": true,
+          "launchInNewWindow": false,
+          "reviewable": false,
+          "availability": {
+            "available": "Yes",
+            "allowGuests": true,
+            "allowObservers": true,
+            "adaptiveRelease": {}
+          },
+          "contentHandler": {
+            "id": "resource/x-bb-assignment",
+            "gradeColumnId": "_8091318_1",
+            "groupContent": false,
+            "originalityReportingTool": {
+              "id": "safeAssign",
+              "checkSubmission": false,
+              "studentViewReports": false,
+              "excludeSubmissionsFromDatabases": false
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

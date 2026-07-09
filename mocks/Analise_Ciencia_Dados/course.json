@@ -1,0 +1,26 @@
+{
+  "id": "_300737_1",
+  "courseId": "RS-20261-FSPOA-ACD-PRE-MK3N26-1C",
+  "name": "Análise e Ciência de Dados (MK3N26-1C) - 63",
+  "modified": "2026-02-18T12:42:51.947Z",
+  "organization": false,
+  "ultraStatus": "Classic",
+  "closedComplete": false,
+  "termId": "_140_1",
+  "availability": {
+    "available": "Yes",
+    "duration": {
+      "type": "DateRange",
+      "start": "2026-03-02T03:00:00.000Z",
+      "end": "2027-08-20T02:59:59.000Z"
+    }
+  },
+  "enrollment": {
+    "type": "InstructorLed"
+  },
+  "locale": {
+    "force": false
+  },
+  "externalAccessUrl": "https://senac.blackboard.com/ultra/courses/_300737_1/cl/outline",
+  "guestAccessUrl": "https://senac.blackboard.com/webapps/login?action=guest_login&new_loc=/ultra/courses/_300737_1/cl/outline"
+}

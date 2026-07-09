@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "id": "_2186661_1",
+      "title": "Menções disponíveis",
+      "body": "<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>Olá, pessoal!</strong></span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Informo que as menções parciais do semestre foram atualizadas no portal. Agora vocês podem conferir como estão nesta reta final.</span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>Menções disponíveis no portal:</strong></span></p><ul style=\"list-style-type: disc;\"><li><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>Prova</strong>&nbsp;– Nota da última avaliação realizada</span></p></li><li><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>Labs (Laboratórios)</strong> – Conjunto de atividades do Blackboard + atividade integradora do início do semestre. Agrupei tudo em uma única menção para evitar dar peso excessivo à integradora e prejudicar vocês</span></p></li><li><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>Seminário</strong>&nbsp;– Apresentação sobre métodos de ordenação</span></p></li></ul><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>Dúvidas ou quer conversar sobre recuperação?</strong></span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Pode me procurar! Ainda temos algumas atividades até o final do semestre.</span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>Mudança de local:</strong></span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">A partir de amanhã (01/06), nossas aulas acontecerão no&nbsp;<strong>Laboratório 103, 1º andar</strong>.</span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Nos vemos lá!</span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Abraços,</span></p><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Prof. Vitor Hugo.</span></p>",
+      "draft": false,
+      "availability": {
+        "duration": {
+          "type": "Permanent",
+          "start": "2026-05-31T22:56:22.812Z",
+          "end": null
+        }
+      },
+      "creatorUserId": "_968315_1",
+      "created": "2026-05-31T22:56:22.823Z",
+      "modified": "2026-05-31T22:56:22.823Z",
+      "position": 1,
+      "creator": "_968315_1"
+    },
+    {
+      "id": "_2131037_1",
+      "title": "Atividade Integradora",
+      "body": "<p data-end=\"79\" data-start=\"66\">Olá, pessoal.</p><p data-end=\"275\" data-start=\"81\">Conforme previsto no cronograma da Unidade Curricular, a aula do dia 30/03 será destinada à realização de uma atividade integradora, reunindo os conhecimentos trabalhados até aqui.</p><p data-end=\"544\" data-start=\"277\">A atividade deverá ser concluída em sala de aula até o final do terceiro período. Durante sua realização, <strong>não será permitido o uso de inteligência artificial</strong>. Por outro lado, será possível consultar os materiais da disciplina e os códigos desenvolvidos anteriormente.</p><p data-end=\"623\" data-start=\"546\">Peço, portanto, que vocês se organizem para essa aula e cheguem pontualmente.</p><p data-end=\"633\" data-start=\"625\">Abraços,</p><p data-end=\"633\" data-start=\"625\">Prof. Vitor Hugo.</p>",
+      "draft": false,
+      "availability": {
+        "duration": {
+          "type": "Permanent",
+          "start": "2026-03-29T12:29:16.564Z",
+          "end": null
+        }
+      },
+      "creatorUserId": "_968315_1",
+      "created": "2026-03-29T12:29:16.569Z",
+      "modified": "2026-03-29T12:29:16.569Z",
+      "position": 2,
+      "creator": "_968315_1"
+    }
+  ]
+}

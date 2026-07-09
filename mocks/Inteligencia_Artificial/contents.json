@@ -1,0 +1,481 @@
+[
+  {
+    "id": "_14125659_1",
+    "title": "Boas-vindas!",
+    "created": "2026-02-28T18:02:21.769Z",
+    "modified": "2026-02-28T18:43:48.949Z",
+    "position": 2,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": false,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": false,
+      "allowObservers": false,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder"
+    },
+    "links": [
+      {
+        "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125659_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ],
+    "children": [
+      {
+        "id": "_14125661_1",
+        "parentId": "_14125659_1",
+        "title": "Bem-vindos/as!",
+        "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><!-- Header --><div style=\"margin-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Olá, pessoal!</h2><p style=\"margin: 6px 0 0 0; font-size: 14px; color: #666;\">Bem-vindos à unidade curricular de <span style=\"color: #6c8cff; font-weight: 600;\">Inteligência Artificial</span></p><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\">&nbsp;</div></div><!-- Apresentação --><p style=\"margin: 0 0 14px 0;\">É um prazer iniciar este semestre com vocês na unidade curricular <strong>Inteligência Artificial</strong>, compartilhada entre os cursos da Escola de TI do UniSenac Campus Porto Alegre (2026/1).</p><p style=\"margin: 0 0 14px 0;\">Aqui serão disponibilizados os materiais para estudo, como textos, videoaulas, exemplos práticos e listas de exercícios. A disciplina está organizada em tópicos semanais, facilitando o acompanhamento e a progressão dos conteúdos.</p><p style=\"margin: 0 0 14px 0;\">Utilizem também o Fórum da disciplina para enviar perguntas, dúvidas, sugestões ou compartilhar notícias e materiais que considerem relevantes. A participação ativa é parte importante do processo de aprendizagem.</p><!-- Contatos --><div style=\"background-color: #fbfbfc; border: 1px solid #ececf1; border-radius: 12px; padding: 16px; margin: 18px 0 18px 0;\"><p style=\"margin: 0 0 10px 0; font-weight: bold; color: #333; font-size: 15px;\">📌 Contatos e conexão</p><p style=\"margin: 10px 0 6px 0; font-size: 14px; color: #444;\"><strong>E-mail</strong></p><p style=\"margin: 0 0 10px 0; font-size: 14px;\"><a style=\"color: #6c8cff; text-decoration: none;\" href=\"mailto:vhlopes@senacrs.com.br\"> vhlopes@senacrs.com.br </a></p><p style=\"margin: 10px 0 6px 0; font-size: 14px; color: #444;\"><strong>LinkedIn</strong></p><p style=\"margin: 0; font-size: 14px;\"><a style=\"color: #6c8cff; text-decoration: none;\" href=\"https://www.linkedin.com/in/vitor-hugo-lopes/\" target=\"_blank\" rel=\"noopener\"> https://www.linkedin.com/in/vitor-hugo-lopes/ </a></p></div><!-- Encerramento --><p style=\"margin: 0 0 10px 0;\">Desejo um excelente semestre a todas e todos! Vamos aprofundar nossos conhecimentos em IA, desenvolvendo soluções consistentes e fortalecendo a base técnica de vocês.</p><p style=\"margin: 18px 0 0 0; color: #555;\">Abraço,<br><strong>Prof. Vitor Hugo Lopes</strong></p><!-- Footer --><div style=\"margin-top: 22px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\">&nbsp;</div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\">&nbsp;</div><div style=\"flex: 1; background-color: #6c8cff;\">&nbsp;</div><div style=\"flex: 1; background-color: #88e1a5;\">&nbsp;</div><div style=\"flex: 1; background-color: #feca57;\">&nbsp;</div></div></div></div>",
+        "created": "2026-02-28T18:02:21.820Z",
+        "modified": "2026-02-28T18:16:42.008Z",
+        "position": 0,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-document"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125661_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125662_1",
+        "parentId": "_14125659_1",
+        "title": "‎ ‎",
+        "body": "<div style=\"position: relative; width: 100%; padding-bottom: 56.25%;\"><iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://docs.google.com/presentation/d/e/2PACX-1vTuLmNle2DAwUKbFmfeg6niST4TCzUq-3bKn2_iqg8XOrNYXxrZrvtHkuLTemV_aQ/embed?start=false&amp;loop=false&amp;delayms=3000\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"mozallowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\">\r\n    </iframe></div>",
+        "created": "2026-02-28T18:02:21.829Z",
+        "modified": "2026-02-28T18:02:30.866Z",
+        "position": 1,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-document"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125662_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "_14126305_1",
+    "title": "Cronograma",
+    "body": "<div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 0 auto; line-height: 1.65; color: #222;\"><div style=\"margin-bottom: 18px;\"><h2 style=\"margin: 0; font-size: 24px; font-weight: bold; color: #2b2b2b;\">Cronograma</h2><div style=\"height: 3px; width: 56px; background-color: #6c8cff; border-radius: 99px; margin-top: 12px;\"></div></div><div style=\"margin-bottom: 14px;\">O cronograma abaixo pode sofrer ajustes conforme o andamento da turma e necessidades pedagógicas.</div><div style=\"margin-bottom: 12px; font-size: 13px; color: #555;\"><div style=\"display: inline-block; width: 10px; height: 10px; background-color: #fff4d6; border: 1px solid #f3d28b; border-radius: 3px; vertical-align: middle; margin-right: 8px;\"></div>Atividades de Seminário / Entregas de Projeto. <br><div style=\"display: inline-block; width: 10px; height: 10px; background-color: #ffeef0; border: 1px solid #f5b7b1; border-radius: 3px; vertical-align: middle; margin-right: 8px; margin-top: 5px;\"></div>Avaliações, Questionários e Apresentações Finais.</div><div style=\"border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05); border: 1px solid #ececf1;\"><table style=\"width: 100%; border-collapse: collapse; font-size: 14px;\"><thead><tr style=\"background-color: #f4f6fa;\"><th style=\"padding: 14px; width: 5.96026%; text-align: left;\">#</th><th style=\"padding: 14px; width: 15.9886%; text-align: left;\">Data</th><th style=\"padding: 14px; width: 77.9565%; text-align: left;\">Conteúdo Previsto</th></tr></thead><tbody><tr style=\"background-color: #ffffff;\"><td style=\"padding: 12px; width: 5.96026%;\">1</td><td style=\"padding: 12px; width: 15.9886%;\">04/03</td><td style=\"padding: 12px; width: 77.9565%;\">Introdução à Inteligência Artificial</td></tr><tr style=\"background-color: #f9fbff;\"><td style=\"padding: 12px; width: 5.96026%;\">2</td><td style=\"padding: 12px; width: 15.9886%;\">11/03</td><td style=\"padding: 12px; width: 77.9565%;\">Desenvolvimento Ético para IA</td></tr><tr style=\"background-color: #ffffff;\"><td style=\"padding: 12px; width: 5.96026%;\">3</td><td style=\"padding: 12px; width: 15.9886%;\">18/03</td><td style=\"padding: 12px; width: 77.9565%;\">Revisão Python para IA</td></tr><tr style=\"background-color: #f9fbff;\"><td style=\"padding: 12px; width: 5.96026%;\">4</td><td style=\"padding: 12px; width: 15.9886%;\">25/03</td><td style=\"padding: 12px; width: 77.9565%;\">Revisão Python para IA</td></tr><tr style=\"background-color: #ffffff;\"><td style=\"padding: 12px; width: 5.96026%;\">5</td><td style=\"padding: 12px; width: 15.9886%;\">01/04</td><td style=\"padding: 12px; width: 77.9565%;\">Revisão Python para IA</td></tr><tr><td style=\"padding: 12px; width: 5.96026%;\">6</td><td style=\"padding: 12px; width: 15.9886%;\">08/04</td><td style=\"padding: 12px; width: 77.9565%;\"><strong>Computação Bioinspirada</strong></td></tr><tr><td style=\"padding: 12px; width: 5.96026%;\">7</td><td style=\"padding: 12px; width: 15.9886%;\">15/04</td><td style=\"padding: 12px; width: 77.9565%;\"><strong>Agente Inteligente e Sistema MultiAgente</strong></td></tr><tr style=\"background-color: #fff4d6;\"><td style=\"padding: 12px; width: 5.96026%;\">8</td><td style=\"padding: 12px; width: 15.9886%;\">22/04</td><td style=\"padding: 12px; width: 77.9565%;\"><strong>Apresentação Seminário Bioinspirado</strong></td></tr><tr style=\"background-color: #ffffff;\"><td style=\"padding: 12px; width: 5.96026%;\">9</td><td style=\"padding: 12px; width: 15.9886%;\">29/04</td><td style=\"padding: 12px; width: 77.9565%;\">Machine Learning</td></tr><tr style=\"background-color: #f9fbff;\"><td style=\"padding: 12px; width: 5.96026%;\">10</td><td style=\"padding: 12px; width: 15.9886%;\">06/05</td><td style=\"padding: 12px; width: 77.9565%;\">Redes Neurais</td></tr><tr style=\"background-color: #ffffff;\"><td style=\"padding: 12px; width: 5.96026%;\">11</td><td style=\"padding: 12px; width: 15.9886%;\">13/05</td><td style=\"padding: 12px; width: 77.9565%;\"><em>Conecta: Semana Acadêmica</em></td></tr><tr style=\"background-color: #f9fbff;\"><td style=\"padding: 12px; width: 5.96026%;\">12</td><td style=\"padding: 12px; width: 15.9886%;\">20/05</td><td style=\"padding: 12px; width: 77.9565%;\">Visão Computacional</td></tr><tr style=\"background-color: #ffffff;\"><td style=\"padding: 12px; width: 5.96026%;\">13</td><td style=\"padding: 12px; width: 15.9886%;\">27/05</td><td style=\"padding: 12px; width: 77.9565%;\">Visão Computacional</td></tr><tr style=\"background-color: #f9fbff;\"><td style=\"padding: 12px; width: 5.96026%;\">14</td><td style=\"padding: 12px; width: 15.9886%;\">03/06</td><td style=\"padding: 12px; width: 77.9565%;\">Processamento de Linguagem Natural</td></tr><tr style=\"background-color: #fff4d6;\"><td style=\"padding: 12px; width: 5.96026%;\">15</td><td style=\"padding: 12px; width: 15.9886%;\">10/06</td><td style=\"padding: 12px; width: 77.9565%;\">Projeto Final I (Início)</td></tr><tr style=\"background-color: #fff4d6;\"><td style=\"padding: 12px; width: 5.96026%;\">16</td><td style=\"padding: 12px; width: 15.9886%;\">17/06</td><td style=\"padding: 12px; width: 77.9565%;\">Projeto Final I (Desenvolvimento)</td></tr><tr style=\"background-color: #fff4d6;\"><td style=\"padding: 12px; width: 5.96026%;\">17</td><td style=\"padding: 12px; width: 15.9886%;\">24/06</td><td style=\"padding: 12px; width: 77.9565%;\">Projeto Final I (Desenvolvimento) - Assíncrono</td></tr><tr><td style=\"padding: 12px; width: 5.96026%;\">18</td><td style=\"padding: 12px; width: 15.9886%;\">01/07</td><td style=\"padding: 12px; width: 77.9565%;\">Chatbots e PLN</td></tr><tr><td style=\"padding: 12px; width: 5.96026%;\">19</td><td style=\"padding: 12px; width: 15.9886%;\">08/07</td><td style=\"padding: 12px; width: 77.9565%;\"><strong>Apresentações Finais?</strong></td></tr><tr style=\"background-color: #ffeef0;\"><td style=\"padding: 12px; width: 5.96026%;\">20</td><td style=\"padding: 12px; width: 15.9886%;\">15/07</td><td style=\"padding: 12px; width: 77.9565%;\"><strong>Apresentações Finais</strong></td></tr></tbody></table></div><div style=\"margin-top: 18px;\"><div style=\"border-top: 2px dashed #e8e8ee; margin-bottom: 10px;\"></div><div style=\"display: flex; height: 4px; width: 100%; border-radius: 99px; overflow: hidden;\"><div style=\"flex: 1; background-color: #ff9ff3;\"></div><div style=\"flex: 1; background-color: #6c8cff;\"></div><div style=\"flex: 1; background-color: #88e1a5;\"></div><div style=\"flex: 1; background-color: #feca57;\"></div></div></div></div>",
+    "created": "2026-02-28T18:44:05.820Z",
+    "modified": "2026-06-17T22:14:28.876Z",
+    "position": 3,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": false,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": false,
+      "allowObservers": true,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-blankpage"
+    },
+    "links": [
+      {
+        "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14126305_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "_14125660_1",
+    "title": "Aulas",
+    "created": "2026-02-28T18:02:21.796Z",
+    "modified": "2026-02-28T18:02:30.998Z",
+    "position": 6,
+    "hasChildren": true,
+    "launchInNewWindow": false,
+    "reviewable": false,
+    "availability": {
+      "available": "Yes",
+      "allowGuests": false,
+      "allowObservers": false,
+      "adaptiveRelease": {}
+    },
+    "contentHandler": {
+      "id": "resource/x-bb-folder"
+    },
+    "links": [
+      {
+        "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125660_1",
+        "rel": "alternate",
+        "title": "User Interface View",
+        "type": "text/html"
+      }
+    ],
+    "children": [
+      {
+        "id": "_14125663_1",
+        "parentId": "_14125660_1",
+        "title": "[04/03] Introdução a Inteligência Artificial",
+        "created": "2026-02-28T18:02:21.838Z",
+        "modified": "2026-02-28T18:11:31.538Z",
+        "position": 0,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125663_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125669_1",
+        "parentId": "_14125660_1",
+        "title": "[04/03] Ética na Inteligência Artificial",
+        "created": "2026-02-28T18:02:21.850Z",
+        "modified": "2026-03-04T20:57:52.546Z",
+        "position": 1,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125669_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125675_1",
+        "parentId": "_14125660_1",
+        "title": "[25/03 & 01/04] O básico de Python para IA",
+        "created": "2026-02-28T18:02:21.863Z",
+        "modified": "2026-04-01T22:16:59.464Z",
+        "position": 2,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125675_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125679_1",
+        "parentId": "_14125660_1",
+        "title": "[08/04] Computação Bioinspirada",
+        "created": "2026-02-28T18:02:21.870Z",
+        "modified": "2026-04-08T19:09:26.455Z",
+        "position": 3,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125679_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125682_1",
+        "parentId": "_14125660_1",
+        "title": "[15/04] Agente Inteligente e Sistema MultiAgente",
+        "created": "2026-02-28T18:02:21.876Z",
+        "modified": "2026-04-15T21:49:11.909Z",
+        "position": 4,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125682_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125691_1",
+        "parentId": "_14125660_1",
+        "title": "[29/04] Machine Learning",
+        "created": "2026-02-28T18:02:21.890Z",
+        "modified": "2026-04-29T22:17:07.073Z",
+        "position": 5,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125691_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125694_1",
+        "parentId": "_14125660_1",
+        "title": "[20/05] Redes Neurais",
+        "created": "2026-02-28T18:02:21.894Z",
+        "modified": "2026-05-20T22:43:35.615Z",
+        "position": 6,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125694_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125697_1",
+        "parentId": "_14125660_1",
+        "title": "[27/05] Visão Computacional",
+        "created": "2026-02-28T18:02:21.900Z",
+        "modified": "2026-05-27T22:24:39.097Z",
+        "position": 7,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "Yes",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125697_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125688_1",
+        "parentId": "_14125660_1",
+        "title": "[25/09] Questionário Bioinspirado",
+        "created": "2026-02-28T18:02:21.883Z",
+        "modified": "2026-05-27T22:20:53.630Z",
+        "position": 8,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "No",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125688_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125701_1",
+        "parentId": "_14125660_1",
+        "title": "[30/10] Processamento de Linguagem Natural",
+        "created": "2026-02-28T18:02:21.906Z",
+        "modified": "2026-02-28T18:10:55.638Z",
+        "position": 9,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "No",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125701_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125703_1",
+        "parentId": "_14125660_1",
+        "title": "[Atividade Compensatória] Vamos recuperar?",
+        "created": "2026-02-28T18:02:21.908Z",
+        "modified": "2026-02-28T18:10:59.934Z",
+        "position": 10,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "No",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125703_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      },
+      {
+        "id": "_14125705_1",
+        "parentId": "_14125660_1",
+        "title": "[13/11] Projeto Final",
+        "created": "2026-02-28T18:02:21.912Z",
+        "modified": "2026-03-04T20:26:05.392Z",
+        "position": 11,
+        "hasChildren": true,
+        "launchInNewWindow": false,
+        "reviewable": false,
+        "availability": {
+          "available": "No",
+          "allowGuests": true,
+          "allowObservers": true,
+          "adaptiveRelease": {}
+        },
+        "contentHandler": {
+          "id": "resource/x-bb-folder"
+        },
+        "links": [
+          {
+            "href": "/ultra/courses/_300674_1/cl/outline?legacyUrl=%2Fwebapps%2Fblackboard%2Fexecute%2FdisplayIndividualContent%3Fcourse_id%3D_300674_1%26content_id%3D_14125705_1",
+            "rel": "alternate",
+            "title": "User Interface View",
+            "type": "text/html"
+          }
+        ]
+      }
+    ]
+  }
+]

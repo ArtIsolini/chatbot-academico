@@ -1,10 +1,10 @@
-# 🎓 Chatbot Académico Inteligente
+# 🎓 Chatbot Acadêmico Inteligente
 
-Assistente virtual desenvolvido em Python com base de dados PostgreSQL e integração com a IA generativa (Google Gemini API). O projeto simula o ambiente do Blackboard, permitindo aos alunos consultar avisos, cronogramas de disciplinas, listas de exercícios e turmas matriculadas em linguagem natural.
+Assistente virtual desenvolvido em Python com base de dados PostgreSQL e integração com a IA generativa (Google Gemini API). O projeto simula o ambiente do Blackboard, permitindo aos alunos consultar avisos, cronogramas de disciplinas, listas de exercícios e turmas matriculadas.
 
 ## 📂 Estrutura do Projeto
 
-Para que o Chatbot consiga ler os dados corretamente, o projeto obedece à seguinte estrutura de diretórios:
+Para que o Chatbot consiga ler os dados corretamente, o projeto obedece a seguinte estrutura de pastas:
 
 ```text
 📁 Projeto_Chatbot/
@@ -54,15 +54,13 @@ Abra o terminal **dentro da pasta `chatbot`** e execute:
 python -m venv venv
 venv\Scripts\activate
 
-# (No Mac/Linux use: source venv/bin/activate)
-
 # Instalar as bibliotecas necessárias
 pip install psycopg2-binary google-generativeai python-dotenv
 ```
 
 ### Passo 4: Obter a Chave da API e Configurar Variáveis de Ambiente
 
-Para que o assistente consiga responder usando Inteligência Artificial, cada membro da equipa precisará de uma chave gratuita da API do Gemini:
+Para que o assistente consiga responder usando Inteligência Artificial, cada membro da equipe precisará de uma chave gratuita da API do Gemini:
 
 1. Acesse o [Google AI Studio](https://aistudio.google.com/).
 2. Faça login com a sua conta Google.
@@ -106,14 +104,4 @@ Utilize o aluno principal cadastrado na base de dados para testar todas as funci
 * **Usuário:** `joao.silva`
 * **Senha:** `senha123`
 
-## 🛑 Resolução de Problemas Frequentes
-
-* **Erro "password authentication failed":** Verifique se a sua `DB_PASSWORD` no ficheiro `.env` está correta.
-
-* **Erro "connection refused":** O serviço do PostgreSQL não está rodando no seu computador. Inicie-o pelo `pgAdmin` ou painel de Serviços do Windows.
-
-* **Erro "database 'chatbot_academico' is being accessed by other users":** Ao tentar apagar/dropar o banco no pgAdmin, certifique-se de que o terminal do Python está fechado (`Ctrl + C`) e feche as abas de "Query Tool" do pgAdmin antes de dar o Drop.
-
-* **Demora ou mensagem de Limite da API:** O plano gratuito da Google Gemini possui um limite de requisições por minuto. Caso seja atingido, o bot fará uma pausa automática de 45 segundos e tentará responder novamente.
-
-*Desenvolvido como projeto académico.* 🎓
+*Desenvolvido como projeto acadêmico.* 

@@ -1,5 +1,3 @@
-Copie todo o texto que está dentro do bloco escuro abaixo e cole no seu VS Code:
-
 # 🎓 Chatbot Académico Inteligente
 
 Assistente virtual desenvolvido em Python com base de dados PostgreSQL e integração com a IA generativa (Google Gemini API). O projeto simula o ambiente do Blackboard, permitindo aos alunos consultar avisos, cronogramas de disciplinas, listas de exercícios e turmas matriculadas em linguagem natural.

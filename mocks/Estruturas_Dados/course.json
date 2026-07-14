@@ -1,26 +1,5 @@
 {
   "id": "_301072_1",
   "courseId": "RS-20261-FSPOA-EDC-PRE-IA2N26-1",
-  "name": "Estruturas de Dados para Ciência de Dados (IA2N26-1) - 63",
-  "modified": "2026-02-18T20:28:54.818Z",
-  "organization": false,
-  "ultraStatus": "Classic",
-  "closedComplete": false,
-  "termId": "_140_1",
-  "availability": {
-    "available": "Yes",
-    "duration": {
-      "type": "DateRange",
-      "start": "2026-03-02T03:00:00.000Z",
-      "end": "2028-08-20T02:59:59.000Z"
-    }
-  },
-  "enrollment": {
-    "type": "InstructorLed"
-  },
-  "locale": {
-    "force": false
-  },
-  "externalAccessUrl": "https://senac.blackboard.com/ultra/courses/_301072_1/cl/outline",
-  "guestAccessUrl": "https://senac.blackboard.com/webapps/login?action=guest_login&new_loc=/ultra/courses/_301072_1/cl/outline"
+  "name": "Estruturas de Dados para Ciência de Dados (IA2N26-1) - 63"
 }

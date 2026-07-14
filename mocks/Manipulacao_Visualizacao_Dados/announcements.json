@@ -3,20 +3,7 @@
     {
       "id": "_2118921_1",
       "title": "Mudança de Sala",
-      "body": "<p data-end=\"81\" data-start=\"44\">Olá, pessoal. Espero que estejam bem.</p><p data-end=\"183\" data-start=\"83\">Passando para avisar que, a partir de hoje, a UC de <strong>Manipulação e Visualização de Dados</strong>&nbsp;acontecerá na sala <b>603.</b></p><p data-end=\"204\" data-start=\"185\">Esperamos vocês lá!</p><p data-end=\"214\" data-start=\"206\">Abraços,</p><p data-end=\"214\" data-start=\"206\">Prof Vitor.</p><p data-end=\"214\" data-start=\"206\">Coordenador do CST em IA e Ciência de Dados</p>",
-      "draft": false,
-      "availability": {
-        "duration": {
-          "type": "Permanent",
-          "start": "2026-03-12T19:34:07.394Z",
-          "end": null
-        }
-      },
-      "creatorUserId": "_968315_1",
-      "created": "2026-03-12T19:34:07.399Z",
-      "modified": "2026-03-12T19:34:07.399Z",
-      "position": 1,
-      "creator": "_968315_1"
+      "body": "Olá, pessoal. Passando para avisar que, a partir de hoje, a UC de Manipulação e Visualização de Dados acontecerá na sala 603. Abraços, Prof Vitor."
     }
   ]
 }

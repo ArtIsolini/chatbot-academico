@@ -355,9 +355,16 @@ CURSOS MATRICULADOS (Dados do Banco):
     def consultar_gemini(self, pergunta, curso_id_foco=None):
         
         contexto = self.formatar_contexto_aluno(curso_id_foco)
+
+        # Obtém a data e hora atuais do computador para dar noção de tempo à IA
+        data_atual = datetime.now().strftime("%d/%m/%Y %H:%M")
         
         sistema_prompt = f"""Você é um assistente acadêmico inteligente para uma instituição educacional.
 Você tem acesso aos dados do Blackboard do aluno e deve responder em português de forma natural e amigável.
+
+INFORMAÇÃO TEMPORAL IMPORTANTE:
+- Data e Hora atuais: {data_atual}
+- Utilize esta data exata como referência (Hoje) para responder com precisão a perguntas sobre "última aula", "próxima aula", "na semana que vem", etc. Compare sempre as datas do cronograma com esta data atual.
 
 {contexto}
 

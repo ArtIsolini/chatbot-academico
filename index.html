@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🎓 Portal Acadêmico IA</title>
+
+    <!-- Importar a biblioteca Marked.js para leitura de Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
     <style>
         :root {
             --bg-main: #13131a;
@@ -18,31 +23,31 @@
             --border-color: #2a2a35;
         }
 
-        * { 
-            box-sizing: border-box; 
-            margin: 0; 
-            padding: 0; 
-            font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; 
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
         }
 
-        body { 
-            background: var(--bg-main); 
-            color: var(--text-main); 
-            display: flex; 
+        body {
+            background: var(--bg-main);
+            color: var(--text-main);
+            display: flex;
             height: 100vh;
             overflow: hidden;
         }
-        
+
         /* Barra Lateral Avançada */
-        .sidebar { 
-            width: 320px; 
-            background: var(--bg-sidebar); 
-            padding: 24px; 
-            display: flex; 
-            flex-direction: column; 
-            gap: 24px; 
+        .sidebar {
+            width: 320px;
+            background: var(--bg-sidebar);
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
             border-right: 1px solid var(--border-color);
-            box-shadow: 4px 0 24px rgba(0,0,0,0.2);
+            box-shadow: 4px 0 24px rgba(0, 0, 0, 0.2);
             z-index: 10;
         }
 
@@ -54,16 +59,16 @@
             border-bottom: 1px solid var(--border-color);
         }
 
-        .brand h2 { 
-            font-size: 1.15rem; 
+        .brand h2 {
+            font-size: 1.15rem;
             font-weight: 600;
             letter-spacing: 0.5px;
         }
-        
-        .input-group { 
-            display: flex; 
-            flex-direction: column; 
-            gap: 6px; 
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
         }
 
         .input-group label {
@@ -74,13 +79,13 @@
             color: var(--text-muted);
         }
 
-        input { 
-            padding: 12px 16px; 
-            border-radius: 8px; 
-            border: 1px solid var(--border-color); 
-            background: var(--bg-input); 
-            color: var(--text-main); 
-            font-size: 0.9rem; 
+        input {
+            padding: 12px 16px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background: var(--bg-input);
+            color: var(--text-main);
+            font-size: 0.9rem;
             outline: none;
             transition: all 0.2s ease;
         }
@@ -90,20 +95,20 @@
             box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
         }
 
-        .btn-primary { 
+        .btn-primary {
             padding: 12px;
             border-radius: 8px;
             border: none;
-            background: var(--accent-primary); 
-            color: #ffffff; 
-            font-weight: 600; 
-            cursor: pointer; 
+            background: var(--accent-primary);
+            color: #ffffff;
+            font-weight: 600;
+            cursor: pointer;
             transition: all 0.2s ease;
             box-shadow: 0 4px 12px rgba(99, 102, 241, 0.2);
         }
 
-        .btn-primary:hover { 
-            background: var(--accent-hover); 
+        .btn-primary:hover {
+            background: var(--accent-hover);
             transform: translateY(-1px);
         }
 
@@ -118,12 +123,12 @@
             font-size: 0.95rem;
             color: #34d399;
         }
-        
-        .menu-options { 
-            display: flex; 
-            flex-direction: column; 
-            gap: 12px; 
-            margin-top: 12px; 
+
+        .menu-options {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-top: 12px;
         }
 
         .menu-options h3 {
@@ -134,10 +139,10 @@
             margin-bottom: 4px;
         }
 
-        .menu-btn { 
-            background: var(--bg-main); 
-            color: var(--text-main); 
-            text-align: left; 
+        .menu-btn {
+            background: var(--bg-main);
+            color: var(--text-main);
+            text-align: left;
             padding: 12px 16px;
             border-radius: 8px;
             border: 1px solid var(--border-color);
@@ -146,25 +151,25 @@
             transition: all 0.2s ease;
         }
 
-        .menu-btn:hover { 
-            background: var(--bg-input); 
+        .menu-btn:hover {
+            background: var(--bg-input);
             border-color: var(--text-muted);
             transform: translateX(4px);
         }
 
         /* Área do Painel de Chat */
-        .chat-container { 
-            flex: 1; 
-            display: flex; 
-            flex-direction: column; 
-            background: var(--bg-chat); 
+        .chat-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: var(--bg-chat);
         }
 
-        .chat-header { 
-            padding: 20px 32px; 
-            background: rgba(24, 24, 32, 0.8); 
+        .chat-header {
+            padding: 20px 32px;
+            background: rgba(24, 24, 32, 0.8);
             backdrop-filter: blur(8px);
-            border-bottom: 1px solid var(--border-color); 
+            border-bottom: 1px solid var(--border-color);
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -174,72 +179,103 @@
             font-size: 1.25rem;
             font-weight: 600;
         }
-        
-        .chat-messages { 
-            flex: 1; 
-            padding: 32px; 
-            overflow-y: auto; 
-            display: flex; 
-            flex-direction: column; 
-            gap: 20px; 
+
+        .chat-messages {
+            flex: 1;
+            padding: 32px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
             scroll-behavior: smooth;
         }
-        
+
         /* Balões Customizados Avançados */
-        .message { 
-            max-width: 80%; 
-            padding: 14px 20px; 
-            border-radius: 16px; 
-            line-height: 1.5; 
+        .message {
+            max-width: 80%;
+            padding: 14px 20px;
+            border-radius: 16px;
+            line-height: 1.5;
             font-size: 0.95rem;
             animation: fadeIn 0.3s ease-out;
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(8px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
-        .message.user { 
-            background: var(--accent-primary); 
-            color: #ffffff; 
-            align-self: flex-end; 
+        .message.user {
+            background: var(--accent-primary);
+            color: #ffffff;
+            align-self: flex-end;
             border-bottom-right-radius: 4px;
             box-shadow: 0 4px 12px rgba(99, 102, 241, 0.15);
         }
 
-        .message.bot { 
-            background: var(--bg-sidebar); 
-            color: var(--text-main); 
-            align-self: flex-start; 
+        .message.bot {
+            background: var(--bg-sidebar);
+            color: var(--text-main);
+            align-self: flex-start;
             border-bottom-left-radius: 4px;
             border: 1px solid var(--border-color);
         }
-        
+
+        /* Estilos para o Markdown renderizado dentro do balão do bot */
+        .message.bot strong {
+            font-weight: 700;
+            color: #ffffff;
+            /* Deixa o negrito bem destacado */
+        }
+
+        .message.bot ul,
+        .message.bot ol {
+            margin-left: 1.5rem;
+            margin-top: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .message.bot p {
+            margin-bottom: 0.75rem;
+        }
+
+        .message.bot p:last-child {
+            margin-bottom: 0;
+            /* Remove margem extra no final do balão */
+        }
+
         /* Input Centralizado Estilo Moderno */
         .chat-input-wrapper {
             padding: 24px 32px 32px 32px;
-            background: linear-gradient(180deg, rgba(24,24,32,0) 0%, rgba(24,24,32,1) 30%);
+            background: linear-gradient(180deg, rgba(24, 24, 32, 0) 0%, rgba(24, 24, 32, 1) 30%);
         }
 
-        .chat-input-area { 
+        .chat-input-area {
             max-width: 800px;
             margin: 0 auto;
-            display: flex; 
-            gap: 12px; 
+            display: flex;
+            gap: 12px;
             background: var(--bg-input);
             padding: 8px 8px 8px 16px;
             border-radius: 12px;
             border: 1px solid var(--border-color);
             align-items: center;
-            box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
         }
 
-        .chat-input-area input { 
-            flex: 1; 
+        .chat-input-area input {
+            flex: 1;
             background: transparent;
             border: none;
             padding: 8px 0;
+            color: white;
         }
 
         .chat-input-area input:focus {
@@ -251,6 +287,7 @@
         }
     </style>
 </head>
+
 <body>
 
     <!-- BARRA LATERAL -->
@@ -266,12 +303,12 @@
                 <label for="usuario">Usuário Blackboard</label>
                 <input type="text" id="usuario" placeholder="Ex: joao.silva">
             </div>
-            
+
             <div class="input-group">
                 <label for="senha">Senha Institucional</label>
                 <input type="password" id="senha" placeholder="••••••••">
             </div>
-            
+
             <button class="btn-primary" style="margin-top: 4px;" onclick="fazerLogin()">Autenticar conta</button>
         </div>
 
@@ -285,8 +322,11 @@
         <!-- OPÇÕES RÁPIDAS -->
         <div class="menu-options" id="menu-options" style="display: none;">
             <h3>Consultas Rápidas</h3>
-            <button class="menu-btn" onclick="enviarOpcao('Quais são os avisos recentes dos professores?')">🔔 Ver avisos recentes</button>
-            <button class="menu-btn" onclick="enviarOpcao('Me mostre as disciplinas em que estou matriculado atualmente.')">📚 Ver minhas disciplinas</button>
+            <button class="menu-btn" onclick="enviarOpcao('Quais são os avisos recentes dos professores?')">🔔 Ver
+                avisos recentes</button>
+            <button class="menu-btn"
+                onclick="enviarOpcao('Me mostre as disciplinas em que estou matriculado atualmente.')">📚 Ver minhas
+                disciplinas</button>
         </div>
     </div>
 
@@ -294,16 +334,20 @@
     <div class="chat-container">
         <div class="chat-header">
             <h1>Assistente Acadêmico Inteligente</h1>
-            <span style="font-size: 0.85rem; background: var(--bg-input); padding: 6px 12px; border-radius: 20px; border: 1px solid var(--border-color); color: var(--text-muted);">Gemini 1.5 Flash</span>
+            <span
+                style="font-size: 0.85rem; background: var(--bg-input); padding: 6px 12px; border-radius: 20px; border: 1px solid var(--border-color); color: var(--text-muted);">Gemini
+                1.5 Flash</span>
         </div>
-        
+
         <div class="chat-messages" id="chat-messages">
-            <div class="message bot">Olá! Identifique-se na barra lateral usando suas credenciais do Blackboard para começarmos o atendimento.</div>
+            <div class="message bot">Olá! Identifique-se na barra lateral usando suas credenciais do Blackboard para
+                começarmos o atendimento.</div>
         </div>
 
         <div class="chat-input-wrapper">
             <div class="chat-input-area">
-                <input type="text" id="pergunta" placeholder="Pergunte sobre notas, cronogramas ou conteúdos..." disabled onkeypress="if(event.key === 'Enter') enviarMensagem()">
+                <input type="text" id="pergunta" placeholder="Pergunte sobre notas, cronogramas ou conteúdos..."
+                    disabled onkeypress="if(event.key === 'Enter') enviarMensagem()">
                 <button id="send-btn" class="btn-primary" onclick="enviarMensagem()" disabled>Enviar</button>
             </div>
         </div>
@@ -332,7 +376,7 @@
                     document.getElementById('menu-options').style.display = 'flex';
                     document.getElementById('pergunta').disabled = false;
                     document.getElementById('send-btn').disabled = false;
-                    
+
                     adicionarMensagem("bot", `Conexão estabelecida com sucesso! Olá, ${dados.aluno}. Como posso auxiliar sua rotina acadêmica hoje?`);
                 } else {
                     alert(dados.mensagem);
@@ -346,7 +390,14 @@
             const chatMessages = document.getElementById('chat-messages');
             const div = document.createElement('div');
             div.className = `message ${autor}`;
-            div.innerText = texto;
+
+            // Usar o tradutor apenas nas mensagens do bot
+            if (autor === 'bot') {
+                div.innerHTML = marked.parse(texto);
+            } else {
+                div.innerText = texto; // Para o utilizador, mantemos texto simples
+            }
+
             chatMessages.appendChild(div);
             chatMessages.scrollTop = chatMessages.scrollHeight;
         }
@@ -368,7 +419,7 @@
 
         async function processarRespostaAPI(pergunta) {
             adicionarMensagem("bot", "⏳ Consultando bases e processando sua resposta...");
-            
+
             try {
                 const response = await fetch(`${API_URL}/perguntar`, {
                     method: 'POST',
@@ -376,14 +427,14 @@
                     body: JSON.stringify({ pergunta })
                 });
                 const dados = await response.json();
-                
+
                 const mensagens = document.getElementById('chat-messages');
                 mensagens.removeChild(mensagens.lastChild); // Remove o indicador de processamento
 
                 adicionarMensagem("bot", dados.resposta);
             } catch (err) {
                 const mensagens = document.getElementById('chat-messages');
-                if(mensagens.lastChild.innerText.includes("Consultando bases")) {
+                if (mensagens.lastChild.innerText && mensagens.lastChild.innerText.includes("Consultando bases")) {
                     mensagens.removeChild(mensagens.lastChild);
                 }
                 adicionarMensagem("bot", "❌ Ocorreu uma falha de conexão ao gerar a resposta com a IA.");
@@ -391,4 +442,5 @@
         }
     </script>
 </body>
+
 </html>

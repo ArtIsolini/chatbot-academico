@@ -2,6 +2,10 @@
 
 Assistente virtual desenvolvido com frontend web moderno (HTML/JS) e backend em Python (Flask) integrado a um banco de dados PostgreSQL e Inteligência Artificial Generativa (Google Gemini API). O projeto simula o ambiente do Blackboard, permitindo aos alunos consultar avisos, cronogramas de disciplinas, materiais de aulas e turmas matriculadas utilizando linguagem natural.
 
+##
+teste   
+
+
 ## 📂 Estrutura do Projeto
 
 Para que o sistema web e a leitura de dados funcionem corretamente, o projeto obedece à seguinte estrutura de pastas:

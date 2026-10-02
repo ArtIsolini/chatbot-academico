@@ -40,7 +40,7 @@ Antes de iniciar, certifique-se de ter instalado em sua máquina:
 Faça o clone do repositório para o seu computador:
 
 ```bash
-git clone [https://github.com/ArtIsolini/chatbot-academico.git](https://github.com/ArtIsolini/chatbot-academico.git)
+git clone https://github.com/ArtIsolini/chatbot-academico.git   
 cd chatbot-academico
 ```
 
